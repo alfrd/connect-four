@@ -22,5 +22,5 @@ localhost:3000
 För att spela ett Online Multiplayer game måste man ansluta till servern från en annan enhet.
 
 1. Hitta lokala ip-adressen för enheten som kör servern (Borde börja på 192 eller 10).
-2. Gå in i webbläsaren på den andra enheten och skriv in <ip-adressen>:3000.
+2. Gå in i webbläsaren på den andra enheten och skriv in \<ip-adressen\>:3000.
 3. Du borde nu kunna spela Online Multiplayer.
