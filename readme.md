@@ -11,7 +11,7 @@ npm install
 ```
 npm start
 ```
-6. öppna din webbläsare och skriv in:
+6. Öppna din webbläsare och skriv in:
 ```
 localhost:3000
 ```
