@@ -1,6 +1,6 @@
 ## Connect Four - How to install
-1. Clone:a eller ladda ner projektet.
-2. Se till att du har installerat node.js på din dator. (https://nodejs.org)
+1. Clone:a eller ladda ner projektet. (Packa även upp .zip-filen om du endast laddar ner)
+2. Se till att du har node.js (och därmed npm) installerat på din dator. Annars står det hur man laddar ner det här https://www.npmjs.com/get-npm
 3. Öppna ett terminalfönster och navigera till projektmappen.
 4. Kör kommandot:
 ```
