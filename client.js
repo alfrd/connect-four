@@ -1,4 +1,4 @@
-//Some variables
+
 var socket = io(); //creates an instance of socket.io
 var whoseTurn = 1; //Keeps track of who's turn it is to play
 var columnNbrHover; //Holds the number for the column that the mouse hovered over last
@@ -12,8 +12,6 @@ There are three cookies in use
 'isLocalGame' that is 1 if there is a local game in progress, else 0
 */
 $(function() {
-
-  console.log("multiplayerNbr is: " + Cookies.get('multiplayerNbr'));
 
   //Shows the new local game overlay where you choose usernames when
   //the newgame-btn is clicked
@@ -48,7 +46,7 @@ $(function() {
   $('#online-multiplayer-btn').click(function() {
     $('#online-multiplayer-overlay').show();
     socket.emit('entered online lobby');
-    socket.on('lobby response', function(state) { //the lobby response tells there is an online game in progress and sets the cookie accordingly
+    socket.on('lobby response', function(state) { //the lobby response says if there is an online game in progress and sets the cookie accordingly
       if (state == null) {
         Cookies.set('isOnlineGame', 0);
       } else if (state == true) {
@@ -105,9 +103,9 @@ $(function() {
   //when online-multiplayer-disconnect-btn is clicked
   $('#online-multiplayer-disconnect-btn').click(function() {
     Cookies.set('isOnlineGame', 0);
-    Cookies.set('multiplayerNbr', 0);
     $('#waiting-for-other-player').addClass('hider');
     socket.emit('online multiplayer disconnect', Cookies.get('multiplayerNbr'));
+    Cookies.set('multiplayerNbr', 0);
     $('#submit-username-online-multiplayer-btn').removeClass('disabled');
     $('#submit-username-online-multiplayer-btn').removeClass('disable-click');
   });

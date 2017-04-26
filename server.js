@@ -1,16 +1,15 @@
 //Server things
 
-var app = require('express')();
-var http = require('http').Server(app);
-var io = require('socket.io')(http);
-//http.maxConnections = 7;
+var app = require('express')(); //Creates an instance of express
+var http = require('http').Server(app); //Creates a http server from express
+var io = require('socket.io')(http); //Creates an instance of socket.io
 
-//some variables
-var whoseTurn;
-var playerList = [];
-var clients = [];
-var gameOver = 0;
-var isLocalGame;
+
+//Some variables that are used on the server
+var whoseTurn; //Keeps trakc of whose turn it is.
+var playerList = []; //Contains the current player's usernames at index 1 and 2 (which are also their corresponding multiplayerNbr's)
+var gameOver = 0; //if the game is over, this variable is 1
+var isLocalGame; //Boolean, keeps track of if there is a local game in progress
 
 //Highscore list (most wins)
 var highscoreList = new Map();
@@ -18,15 +17,15 @@ var topThree = new Map();
 var topThreeUsernames = [];
 var topThreeWins = [];
 
-//for logging of games
+//For logging of games
 var fs = require('fs');
 var logger = fs.createWriteStream('gameslog.txt', {
   flags: 'a' // 'a' means appending (old data will be preserved)
 });
 
 //Multiplayer stuff
-var waitingForPlayer = null;
-var isOnlineGame;
+var waitingForPlayer = null; //Keeps track of who's in the online lobby
+var isOnlineGame; //Boolean, keeps track of if there is an online game in progress
 
 app.get('/', function(req, res) {
   res.sendFile(__dirname + '/index.html');
