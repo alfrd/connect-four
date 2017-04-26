@@ -1,0 +1,151 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+  <script src="node_modules/jquery/dist/jquery.js"></script> <!--backup if user is offline-->
+
+  <script src="node_modules/js-cookie/src/js.cookie.js"></script>
+
+  <script src="/socket.io/socket.io.js"></script>
+  <script src="client.js" charset="utf-8"></script>
+  <!-- Latest compiled and minified Bootstrap CSS -->
+
+  <link rel="stylesheet" href="node_modules/bootstrap/dist/css/bootstrap.min.css">
+  <link rel="stylesheet" href="style.css">
+
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Connect Four</title>
+</head>
+
+<body>
+  <!-- Overlay to choose usernames for local game-->
+  <div id="local-game-overlay">
+    <div class="jumbotron text-center">
+      <h2>New Local Game</h2>
+      <p>Please choose usernames (can't be empty)</p>
+      <div class="alert alert-warning game-in-progress">
+        There is already another game in progress.
+      </div>
+      <button class="btn btn-default" id="cancel-local-overlay-btn">Cancel</button>
+    </div>
+    <div class="container">
+      <div class="row">
+        <div id="username-form">
+          <div class="form-group center-block">
+            <label for="usr1">Player 1:</label>
+            <input type="text" class="form-control" id="player1-username" placeholder="Username" autofocus="autofocus">
+          </div>
+
+          <div class="form-group center-block">
+            <label for="usr2">Player 2:</label>
+            <input type="text" class="form-control" id="player2-username" placeholder="Username">
+          </div>
+          <button id="submit-username-local-btn" class="btn btn-primary btn-lg btn-float-right" type="button" >Let's play</button>
+        </div>
+      </div>
+
+    </div>
+  </div>
+
+  <!-- Online multiplayer game overlay -->
+  <div id="online-multiplayer-overlay">
+    <div class="jumbotron text-center">
+
+      <h2>New Online Game</h2>
+      <p>Please choose a username (can't be empty)</p>
+      <p id="small-text">If your name dissappears from the lobby, press Disconnect and then Enter Lobby again</p>
+      <div class="alert alert-warning game-in-progress">
+        There is already an online game in progress.
+        </div>
+      <button class="btn btn-default" id="cancel-online-multiplayer-overlay-btn">Cancel</button>
+      <div id="lobby">
+        <h3>In lobby:</h3>
+        <h4 id="wants-to-play"></h4>
+      </div>
+    </div>
+
+    <div class="form-group center-block" id="username-form">
+      <label for="usr1">Username:</label>
+      <input type="text" class="form-control" id="online-multiplayer-username" placeholder="Username" autofocus="autofocus">
+      <button id="submit-username-online-multiplayer-btn" class="btn btn-primary btn-lg btn-float-right" type="submit" >Enter Lobby</button>
+
+    </div>
+    <div id="waiting-for-other-player" class="hider">
+      <div class="loader center"></div>
+      <h3>Waiting for the other player...</h3>
+      <button id="online-multiplayer-disconnect-btn" class="btn btn-primary btn-lg">Disconnect</button>
+    </div>
+
+
+
+  </div>
+  <!--Main Header-->
+  <div class="jumbotron text-center">
+    <h1>Connect Four</h1>
+    <p>Let's play!</p>
+
+    <div class="input-group center-block">
+      <button class="btn btn-primary btn-lg" id="newgame-btn"> New Local Game</button>
+      <button class="btn btn-info btn-lg" id="online-multiplayer-btn"> New Online Game</button>
+    </div>
+
+
+  </div>
+
+  <!--Main Container-->
+  <div class="container">
+    <!-- First row with info about who's turn it is and an alert box -->
+    <div class="row">
+      <div class="col-md-4 text-center">
+        <div id="p1-turn">
+          <h3 id="player1-turn">
+
+          </h3>
+          <div class="red-circle hider" id="player1-circle"></div>
+        </div>
+
+      </div>
+
+      <div class="col-md-4 text-center">
+        <div class="alert alert-success" id="winner">
+          <strong id="winner-text"></strong>
+          <button id="rematch-btn" class="btn btn-primary btn-lg">Rematch</button>
+        </div>
+      </div>
+
+      <div class="col-md-4 text-center">
+        <div id="p2-turn">
+          <h3 id="player2-turn">
+
+          </h3>
+          <div class="black-circle hider" id="player2-circle"></div>
+        </div>
+
+      </div>
+
+    </div>
+    <!-- Second row with the game board-->
+    <div class="row">
+      <div id="board">
+        <table id="board-table-top">
+
+        </table>
+        <table id="board-table">
+
+        </table>
+      </div>
+    </div>
+    <!-- Third row with the highscore toplist-->
+    <div class="row">
+      <div id="highscore" class="hider">
+        <h3>Highscore: </h3>
+        <ul class="list-group" id="highscore-list">
+
+        </ul>
+      </div>
+    </div>
+  </div>
+</body>
+
+</html>
