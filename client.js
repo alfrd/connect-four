@@ -33,7 +33,6 @@ $(function() {
   //Sends the selected usernames for a local game to the server to
   //start the game when the submit-username-local-btn is pressed
   $('#submit-username-local-btn').click(function() {
-
     if ($("#player1-username").val() != "" && $("#player2-username").val() != "") {
       socket.emit('new local game', $("#player1-username").val(), $("#player2-username").val());
       isLocalGame = true;
@@ -108,12 +107,6 @@ $(function() {
     Cookies.set('multiplayerNbr', 0);
     $('#submit-username-online-multiplayer-btn').removeClass('disabled');
     $('#submit-username-online-multiplayer-btn').removeClass('disable-click');
-  });
-
-  //Receives a response from the server containing the client id
-  socket.on('client id', function(id) {
-    console.log("This clients id: " + id);
-    clientID = id;
   });
 
   //When the server tells the client that an online game is in progress

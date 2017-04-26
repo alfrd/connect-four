@@ -58,20 +58,8 @@ io.on('connection', function(socket) {
     socket.emit('game state', boardMatrix, boardHeight, boardWidth, whoseTurn, playerList[1], playerList[2], isLocalGame, isOnlineGame);
     socket.emit('highscore', topThreeUsernames, topThreeWins);
     console.log("A user reloaded");
-  } else {
-    waitingForPlayer = null;
+  } 
 
-  }
-  /*
-  socket.emit('client id', socket.id);
-
-  var usersInRoom = io.of('/').in('game room').clients;
-  console.log('length: ' + usersInRoom.length);
-  if(usersInRoom.length < 2) {
-    socket.join('game room');
-    io.to('game room').emit('client joined room', socket.id);
-  }
-  */
 
   //Starts a new local game
   socket.on('new local game', function(username1, username2) {
@@ -123,6 +111,7 @@ io.on('connection', function(socket) {
           socket.emit('win', player)
         }
         console.log(playerList[player] + ' won!');
+        logger.write("\n" + playerList[player] + " won the game!");
         gameOver = 1;
         isOnlineGame = false;
         isLocalGame = false;
@@ -201,7 +190,6 @@ io.on('connection', function(socket) {
   });
 });
 
-
 //Listens for connections on port 3000
 http.listen(3000, function() {
   console.log('listening on *:3000');
@@ -227,6 +215,7 @@ function addWin(username) {
   } else {
     highscoreList.set(username, 1);
     console.log("That was " + username + "'s first win!");
+    logger.write("That was " + username + "'s first win!");
   }
   updateTopThree();
 }
@@ -234,7 +223,6 @@ function addWin(username) {
 //Updates the three usernames with the most wins and their number of wins
 //in the arrays topThreeUsernames and topThreeWins
 function updateTopThree() {
-
   //three values holding the largest, second largest and third largest values
   var temp1Val = 0;
   var temp2Val = 0;
