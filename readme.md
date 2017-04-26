@@ -1,7 +1,7 @@
 ## Connect Four - How to install
 1. Clone:a eller ladda ner projektet.
 2. Se till att du har installerat node.js på din dator.
-3. Öppna ett terminalfönster och navigera till mappen där du placerat projektet.
+3. Öppna ett terminalfönster och navigera till projektmappen.
 4. Kör kommandot:
 ```
 npm install
@@ -23,4 +23,4 @@ För att spela ett Online Multiplayer game måste man ansluta till servern från
 
 1. Hitta lokala ip-adressen för enheten som kör servern (Borde börja på 192 eller 10).
 2. Gå in i webbläsaren på den andra enheten och skriv in \<ip-adressen\>:3000.
-3. Du borde nu kunna spela Online Multiplayer.
+3. Du borde nu kunna spela Online Multiplayer och starta lokala spel från den här enheten.
