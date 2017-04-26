@@ -6,7 +6,7 @@ var io = require('socket.io')(http);
 //http.maxConnections = 7;
 
 //some variables
-var whosTurn;
+var whoseTurn;
 var playerList = [];
 var clients = [];
 var gameOver = 0;
@@ -56,8 +56,12 @@ io.on('connection', function(socket) {
   console.log('a user connected ' + socket.id);
 
   if(isLocalGame || isOnlineGame) {
-    socket.emit('game state', boardMatrix, boardHeight, boardWidth, whosTurn, playerList[1], playerList[2], isLocalGame, isOnlineGame);
+    socket.emit('game state', boardMatrix, boardHeight, boardWidth, whoseTurn, playerList[1], playerList[2], isLocalGame, isOnlineGame);
+    socket.emit('highscore', topThreeUsernames, topThreeWins);
     console.log("A user reloaded");
+  } else {
+    waitingForPlayer = null;
+
   }
   /*
   socket.emit('client id', socket.id);
@@ -75,8 +79,8 @@ io.on('connection', function(socket) {
     if (!isOnlineGame && !isLocalGame) { //Can't start a local game if the server is busy with online game
       console.log("A new game was started by " + username1 + " and " + username2);
       logger.write("\nA new game was started by " + username1 + " and " + username2);
-      whosTurn = Math.floor((Math.random() * 2) + 1);
-      console.log(whosTurn);
+      whoseTurn = Math.floor((Math.random() * 2) + 1);
+      console.log(whoseTurn);
       setPlayers(username1, username2);
       //clear boardMatrix
       boardMatrix = createBoardMatrix(boardWidth, boardHeight);
@@ -84,7 +88,7 @@ io.on('connection', function(socket) {
       gameOver = 0;
       isOnlineGame = false;
       isLocalGame = true;
-      socket.emit('initialize local game', boardWidth, boardHeight, whosTurn, playerList[1], playerList[2]);
+      socket.emit('initialize local game', boardWidth, boardHeight, whoseTurn, playerList[1], playerList[2]);
 
       //Sending the highscore toplist to the client.
       socket.emit('highscore', topThreeUsernames, topThreeWins);
@@ -104,13 +108,13 @@ io.on('connection', function(socket) {
       logger.write("\n" + playerList[player] + " played");
       printBoard();
       io.sockets.emit('successful drop', latestPositionX, latestPositionY);
-      if (whosTurn == 1) {
-        whosTurn = 2;
+      if (whoseTurn == 1) {
+        whoseTurn = 2;
       } else {
-        whosTurn = 1;
+        whoseTurn = 1;
       }
-      console.log(playerList[whosTurn] + "'s turn to play");
-      logger.write("\n" + playerList[whosTurn] + "'s turn to play");
+      console.log(playerList[whoseTurn] + "'s turn to play");
+      logger.write("\n" + playerList[whoseTurn] + "'s turn to play");
 
       //Check if the dropped checker resulted in a win
       if (checkFromPosition(latestPositionX, latestPositionY)) {
@@ -131,7 +135,7 @@ io.on('connection', function(socket) {
     }
     if (checkIfBoardIsFull()) {
       console.log("board is full");
-      socket.emit('board full', "Draw, the board is full!");
+      io.sockets.emit('board full', "Draw, the board is full!");
       logger.write("\nDraw, the board is full!");
     }
   });
@@ -145,14 +149,14 @@ io.on('connection', function(socket) {
       console.log("A new game was started by " + playerList[1] + " and " + playerList[2]);
       logger.write("\nA new game was started by " + playerList[1] + " and " + playerList[2]);
 
-      whosTurn = Math.floor(Math.random() * 2 + 1); //Randomizes who gets the first turn
+      whoseTurn = Math.floor(Math.random() * 2 + 1); //Randomizes who gets the first turn
 
       //clears boardMatrix
       boardMatrix = createBoardMatrix(boardWidth, boardHeight);
       updateTopThree();
       gameOver = 0;
       isOnlineGame = true;
-      io.sockets.emit('online multiplayer initialize game', playerList[1], playerList[2], boardWidth, boardHeight, whosTurn);
+      io.sockets.emit('online multiplayer initialize game', playerList[1], playerList[2], boardWidth, boardHeight, whoseTurn);
       //Sending the highscore toplist to the client.
       io.sockets.emit('highscore', topThreeUsernames, topThreeWins);
       waitingForPlayer = null;
@@ -179,27 +183,22 @@ io.on('connection', function(socket) {
 
   //When a client requests the lobby i.e. the variable waitingForPlayer
   socket.on('get lobby', function() {
-    if(waitingForPlayer != null) {
-      console.log(waitingForPlayer + " is waiting..."); //only print this if someone is waiting
+    if(waitingForPlayer != null) { //only print this if someone is waiting
+      console.log(waitingForPlayer + " is waiting...");
     }
     socket.emit('wants to play', waitingForPlayer);
   });
 
-  socket.on('get game state', function() {
-    socket.emit('game state', boardMatrix, boardHeight, boardWidth, whosTurn, playerList[1], playerList[2], isLocalGame, isOnlineGame);
-  });
-
+  //When a client enters the online lobby, the server responds with
+  //isOnlineGame to to tell the client if there is an online gam in progress
+  //and waitingForPlayer to tell the client if there is someone waiting in the lobby
   socket.on('entered online lobby', function() {
     socket.emit('lobby response', isOnlineGame, waitingForPlayer);
   })
   //When a user disconnects from the server (happens when a client reloads the page in the browser)
   socket.on('disconnect', function() {
     console.log('user disconnected');
-    //waitingForPlayer = null;
-    //io.sockets.emit('wants to play', waitingForPlayer);
-    //io.sockets.emit('user disconnected');
-    //isOnlineGame = null;
-    //isLocalGame = null;
+
   });
 });
 

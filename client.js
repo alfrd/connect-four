@@ -1,26 +1,30 @@
 //Some variables
 var socket = io(); //creates an instance of socket.io
-var whosTurn = 1; //Keeps track of who's turn it is to play
+var whoseTurn = 1; //Keeps track of who's turn it is to play
 var columnNbrHover; //Holds the number for the column that the mouse hovered over last
 var playerList = []; //Holds username1 at index 1 and username2 at index 2 (index 0 is not used, since it represents an empty position on the board)
-var multiplayerNbr = 0; //Keeps track of if this client is player 1 or player 2 in a online game (0 means not in online game)
-var isOnlineGame; //Is true if it's an online game in progress, else false
-var isLocalGame; //Is true if it's an local game in progress, else false
-var clientID; //this clients ID at the server
+
+
+/*
+There are three cookies in use
+'multiplayerNbr' that keeps track of if the this client is player 1 or 2 in a online multiplayer game
+'isOnlineGame' that is 1 if there is an online game in progress, else 0
+'isLocalGame' that is 1 if there is a local game in progress, else 0
+*/
 $(function() {
 
-  console.log("multiplayerNbr is: " + multiplayerNbr);
+  console.log("multiplayerNbr is: " + Cookies.get('multiplayerNbr'));
 
   //Shows the new local game overlay where you choose usernames when
   //the newgame-btn is clicked
   $('#newgame-btn').click(function() {
     $('#local-game-overlay').show();
-    socket.emit('online multiplayer disconnect', multiplayerNbr);
+    socket.emit('online multiplayer disconnect', Cookies.get('multiplayerNbr'));
   });
 
   //Cancels and removes the local game overlay when cancel-local-overlay-btn is pressed
   $('#cancel-local-overlay-btn').click(function() {
-    if (!isOnlineGame && !isLocalGame) {
+    if (Cookies.get('isOnlineGame') == 0 && Cookies.get('isLocalGame') == 1) {
       $('#p1-turn').addClass("hider");
       $('#p2-turn').addClass("hider");
     }
@@ -44,25 +48,27 @@ $(function() {
   $('#online-multiplayer-btn').click(function() {
     $('#online-multiplayer-overlay').show();
     socket.emit('entered online lobby');
-    socket.on('lobby response', function(state) {
+    socket.on('lobby response', function(state) { //the lobby response tells there is an online game in progress and sets the cookie accordingly
       if (state == null) {
         Cookies.set('isOnlineGame', 0);
-      } else if(state == true) {
+      } else if (state == true) {
         Cookies.set('isOnlineGame', 1);
       } else {
         Cookies.set('isOnlineGame', 0);
       }
-      console.log(isOnlineGame);
 
-      if (Cookies.get('isOnline') == 1) {
+      //If there is an online game in progress the online lobby will be set up accordingly
+      if (Cookies.get('isOnlineGame') == 1) {
         console.log("first");
         $('.game-in-progress').show();
-      } else if (Cookies.get('multiplayerNbr') == 1 && Cookies.get('isOnlineGame') == 1) {
+        $('#submit-username-online-multiplayer-btn').addClass('disabled');
+        $('#submit-username-online-multiplayer-btn').addClass('disable-click');
+      } else if (Cookies.get('multiplayerNbr') == 1) { //if has already entered lobby, but refreshed page
         socket.emit('get lobby');
         $('#waiting-for-other-player').removeClass('hider');
         $('#submit-username-online-multiplayer-btn').addClass('disabled');
         $('#submit-username-online-multiplayer-btn').addClass('disable-click');
-      } else {
+      } else { // if no game is in progress
         socket.emit('get lobby');
       }
     });
@@ -72,9 +78,10 @@ $(function() {
 
   //Hides the online multiplayer overlay when cancel-online-multiplayer-overlay-btn is clicked
   $('#cancel-online-multiplayer-overlay-btn').click(function() {
-    if (multiplayerNbr == 1 && Cookies.get('isOnlineGame') == 0) { //Checks if this client is already in the online lobby or if game is in progress
-      socket.emit('online multiplayer disconnect', multiplayerNbr);
-      multiplayerNbr = null;
+    //Checks if this client is already in the online lobby or if game is in progress
+    if (Cookies.get('multiplayerNbr') == 1 && Cookies.get('isOnlineGame') == 0) {
+      socket.emit('online multiplayer disconnect', Cookies.get('multiplayerNbr'));
+      Cookies.set('multiplayerNbr', 0);
       $('#waiting-for-other-player').addClass('hider');
       $('#submit-username-online-multiplayer-btn').removeClass('disabled');
       $('#submit-username-online-multiplayer-btn').removeClass('disable-click');
@@ -100,20 +107,17 @@ $(function() {
     Cookies.set('isOnlineGame', 0);
     Cookies.set('multiplayerNbr', 0);
     $('#waiting-for-other-player').addClass('hider');
-    socket.emit('online multiplayer disconnect', multiplayerNbr);
+    socket.emit('online multiplayer disconnect', Cookies.get('multiplayerNbr'));
     $('#submit-username-online-multiplayer-btn').removeClass('disabled');
     $('#submit-username-online-multiplayer-btn').removeClass('disable-click');
   });
 
-  //Recieves a response from the server containing the client id
+  //Receives a response from the server containing the client id
   socket.on('client id', function(id) {
     console.log("This clients id: " + id);
     clientID = id;
   });
 
-  socket.on('client joined room', function(id) {
-    console.log(id + " joined the game room");
-  })
   //When the server tells the client that an online game is in progress
   //the game in progress alert will be shown
   socket.on('game in progress', function() {
@@ -122,7 +126,6 @@ $(function() {
 
   //Receives info from the server about if this client is player number 1 och player number 2
   socket.on('online multiplayer number', function(nbr, opponent) {
-    multiplayerNbr = nbr;
     Cookies.set('multiplayerNbr', nbr);
     console.log("Your multiplayerNbr is set to " + Cookies.get('multiplayerNbr'));
   });
@@ -130,46 +133,46 @@ $(function() {
   //When the client receives a 'online multiplayer initialize game' message
   //from the server, it will prepare the page for a new online multiplayer game
   socket.on('online multiplayer initialize game', function(mpUsername1, mpUsername2, boardWidth, boardHeight, firstTurn) {
-    multiplayerNbr = Cookies.get('multiplayerNbr');
     setPlayers(mpUsername1, mpUsername2);
     onlineMultiplayerSetup(firstTurn);
     renderBoard(boardWidth, boardHeight);
 
   });
 
-  //
-  socket.on('user disconnected', function() {
-    if (isOnlineGame) {
-      //$('#winner').text('The other user disconnected, please reload the page!');
-      //$('#winner').show();
-    }
-
-  });
-
-  socket.on('game state', function(boardMatrix, boardHeight, boardWidth, whosTurn, username1, username2, isLocalGame, isOnlineGame) {
+  //When a 'game state' message is received from the server, the client
+  //renders the current game (if there is one in progress).
+  //Happens if the page is reloaded
+  socket.on('game state', function(boardMatrix, boardHeight, boardWidth, whoseTurn, username1, username2, isLocalGame, isOnlineGame) {
     if (Cookies.get('isOnlineGame') == 1) {
       console.log("Shouldn't be here");
-      multiplayerNbr = Cookies.get('multiplayerNbr');
       setPlayers(username1, username2);
-      onlineMultiplayerSetup(whosTurn);
+      onlineMultiplayerSetup(whoseTurn);
       renderBoard(boardWidth, boardHeight);
       refillBoard(boardMatrix, boardWidth, boardHeight);
     } else if (Cookies.get('isLocalGame') == 1) {
       setPlayers(username1, username2);
-      localSetup(whosTurn);
+      localSetup(whoseTurn);
       renderBoard(boardWidth, boardHeight);
       refillBoard(boardMatrix, boardWidth, boardHeight);
     }
 
   });
 
+  //Updates the lobby text with the username for the player who is waiting
   socket.on('wants to play', function(username) {
     $('#wants-to-play').text(username);
+    if(username != null) {
+      console.log("User is null");
+    }
   });
 
   //Creates a rematch with the same usernames as the previous game
   $('#rematch-btn').click(function() {
-    socket.emit('new local game', playerList[1], playerList[2]);
+    if (Cookie.get('isOnlineGame') == 1) {
+      socket.emit('online multiplayer init', $("#online-multiplayer-username").val());
+    } else if (Cookie.get('isLocalGame') == 1) {
+      socket.emit('new local game', playerList[1], playerList[2]);
+    }
   });
 
   //When the server initializes a game
@@ -198,10 +201,12 @@ $(function() {
     }
   });
 
+  //When a checker drop is successful
+  //x, y is the position where the checker was placed
   socket.on('successful drop', function(x, y) {
     if (Cookies.get('isLocalGame') == 1 || Cookies.get('isOnlineGame') == 1) {
       console.log("Succesful drop " + Cookies.get('isLocalGame') + " " + Cookies.get('isOnlineGame'));
-      if (whosTurn == 1) {
+      if (whoseTurn == 1) {
         $('#pos-' + x + y).children().addClass("make-red");
       } else {
         $('#pos-' + x + y).children().addClass("make-black");
@@ -212,6 +217,7 @@ $(function() {
     }
   });
 
+  //When a game is won
   socket.on('win', function(winner) {
     console.log("Winner: " + playerList[winner]);
     $('#winner-text').text(playerList[winner] + " won!");
@@ -221,20 +227,21 @@ $(function() {
     $('#p1-turn').addClass("hider");
     $('#p2-turn').addClass("hider");
     $('.game-in-progress').hide();
+    $('#waiting-for-other-player').addClass('hider');
     $('#submit-username-online-multiplayer-btn').removeClass('disabled');
     $('#submit-username-online-multiplayer-btn').removeClass('disable-click');
-
-    multiplayerNbr = null;
 
     Cookies.set('isOnlineGame', 0);
     Cookies.set('isLocalGame', 0);
     Cookies.set('multiplayerNbr', 0);
   });
 
+  //When the board is full. The is ended and a message is shown on the client
   socket.on('board full', function(message) {
+    Cookies.set('isOnlineGame', 0);
+    Cookies.set('isLocalGame', 0);
     $('#winner-text').text(message);
     $('#winner').show();
-    $('#rematch-btn').show();
   });
 
 });
@@ -252,17 +259,15 @@ function renderBoard(width, height) {
   $('#board').append($('<table id="board-table">'));
   $('#board-table-top').append($('<tr id="top-boardRow" class="board-row">'));
 
-  //create circles above board
+  //create circles above board by iterating over the row
   for (var h = 0; h < width; h++) {
     $('#top-boardRow').append($('<td id="top-' + h + '" class="place-checker-hole">').append($('<div class="circle-hole">')))
   }
-  //create the circles on the board
+  //create the circles on the board going through each row and each position in the rows
   for (var i = height - 1; i >= 0; i--) {
     $('#board-table').append($('<tr id="boardRow' + i + '" class="board-row">'));
-
     for (var j = 0; j < width; j++) {
       $('#boardRow' + i).append($('<td id="pos-' + j + i + '">').append($('<div class="circle-hole">')));
-
     }
   }
 
@@ -270,27 +275,25 @@ function renderBoard(width, height) {
   $('#board-table-top td').click(function() {
     var columnNbrClick = parseInt($(this).index());
     if (Cookies.get('isOnlineGame') == 1) {
-      if (multiplayerNbr == whosTurn) { //to check if it's your turn and if you are allowed to drop
-        socket.emit('dropped checker', columnNbrClick, whosTurn);
+      if (Cookies.get('multiplayerNbr') == whoseTurn) { //to check if it's your turn and if you are allowed to drop
+        socket.emit('dropped checker', columnNbrClick, whoseTurn);
       }
-    } else if (Cookies.get('isLocalGame') == 1) {
-      socket.emit('dropped checker', columnNbrClick, whosTurn);
+    } else if (Cookies.get('isLocalGame') == 1) { //If it's a local game, then you are always allowed to drop since both players use the same cursor
+      socket.emit('dropped checker', columnNbrClick, whoseTurn);
     }
-
-
   });
 
   //Listens for hovers over the circles above the board
   $('#board-table-top td').hover(function() {
     columnNbrHover = parseInt($(this).index());
     if (Cookies.get('isOnlineGame') == 1) {
-      if (whosTurn == 1 && whosTurn == multiplayerNbr) {
+      if (whoseTurn == 1 && whoseTurn == Cookies.get('multiplayerNbr')) {
         $('#top-' + columnNbrHover).children().addClass("make-red");
-      } else if (whosTurn == 2 && whosTurn == multiplayerNbr) {
+      } else if (whoseTurn == 2 && whoseTurn == Cookies.get('multiplayerNbr')) {
         $('#top-' + columnNbrHover).children().addClass("make-black");
       }
     } else {
-      if (whosTurn == 1) {
+      if (whoseTurn == 1) {
         $('#top-' + columnNbrHover).children().addClass("make-red");
       } else {
         $('#top-' + columnNbrHover).children().addClass("make-black");
@@ -303,6 +306,8 @@ function renderBoard(width, height) {
   });
 
 }
+
+
 //Refills the board from the data in boardMatrix
 //used if the page is reloaded
 function refillBoard(boardMatrix, boardWidth, boardHeight) {
@@ -316,12 +321,14 @@ function refillBoard(boardMatrix, boardWidth, boardHeight) {
     }
   }
 }
-//sets up local game
+
+
+//Sets up local game and sets who starts
 function localSetup(firstTurn) {
   $('#player1-turn').text(playerList[1] + ", it's your turn!");
   $('#player2-turn').text(playerList[2] + ", it's your turn!");
   Cookies.set('isOnlineGame', 0);
-  whosTurn = firstTurn;
+  whoseTurn = firstTurn;
   $('#p' + firstTurn + '-turn').removeClass("hider");
   $('#player1-circle').removeClass("hider");
   $('#player2-circle').removeClass("hider");
@@ -335,17 +342,18 @@ function localSetup(firstTurn) {
   $('#local-game-overlay').hide();
   $('#online-multiplayer-overlay').hide();
 }
-//Sets up online multiplayer game
+
+
+//Sets up online multiplayer game and sets who starts
 function onlineMultiplayerSetup(firstTurn) {
   Cookies.set('isOnlineGame', 1);
-  console.log("Shouldn't be here");
   Cookies.set('isLocalGame', 0);
-  whosTurn = firstTurn;
-  multiplayerNbr = Cookies.get('multiplayerNbr');
-  if (multiplayerNbr == 1) {
+  whoseTurn = firstTurn;
+
+  if (Cookies.get('multiplayerNbr') == 1) {
     $('#player1-turn').text("Your turn!");
     $('#player2-turn').text(playerList[2] + "'s turn!");
-  } else if (multiplayerNbr == 2) {
+  } else if (Cookies.get('multiplayerNbr') == 2) {
     $('#player1-turn').text(playerList[1] + "'s turn!");
     $('#player2-turn').text("Your turn!");
   } else {
@@ -353,11 +361,12 @@ function onlineMultiplayerSetup(firstTurn) {
     $('#player2-turn').text("You are spectating!");
   }
 
+  //Show some elements wich shows whose turn it is
   $('#p' + firstTurn + '-turn').removeClass("hider");
   $('#player1-circle').removeClass("hider");
   $('#player2-circle').removeClass("hider");
   $('#waiting-for-other-player').addClass('hider');
-  console.log("First turn: " + whosTurn);
+  console.log("First turn: " + whoseTurn);
   if (firstTurn == 1) {
     $('#p2-turn').addClass("hider");
   } else {
@@ -370,19 +379,20 @@ function onlineMultiplayerSetup(firstTurn) {
 }
 //Switches turn
 function switchTurn() {
-  if (whosTurn == 1) {
-    whosTurn = 2;
+  if (whoseTurn == 1) {
+    whoseTurn = 2;
     $('#p1-turn').addClass("hider");
     $('#p2-turn').removeClass("hider");
 
   } else {
-    whosTurn = 1;
+    whoseTurn = 1;
 
     $('#p1-turn').removeClass("hider");
     $('#p2-turn').addClass("hider");
   }
 }
 
+//Sets the players for a game with their respective usernames
 function setPlayers(username1, username2) {
   //Fills the first position with a zero, so we get player IDs that are non-zero
   playerList[0] = 0;

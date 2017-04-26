@@ -1,0 +1,3035 @@
+
+August entered the online lobby
+A new game was started by August and Tobias
+August played
+0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 
+0 0 1 0 0 0 0 
+-----------------
+Tobias's turn to play
+Tobias played
+0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 
+0 0 1 0 2 0 0 
+-----------------
+August's turn to play
+August played
+0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 
+0 0 1 0 0 0 0 
+0 0 1 0 2 0 0 
+-----------------
+Tobias's turn to play
+Tobias played
+0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 
+0 0 2 0 0 0 0 
+0 0 1 0 0 0 0 
+0 0 1 0 2 0 0 
+-----------------
+August's turn to play
+August played
+0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 
+0 0 2 0 0 0 0 
+0 0 1 0 0 0 0 
+0 0 1 1 2 0 0 
+-----------------
+Tobias's turn to play
+Tobias played
+0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 
+0 0 2 0 0 0 0 
+0 0 1 2 0 0 0 
+0 0 1 1 2 0 0 
+-----------------
+August's turn to play
+August played
+0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 
+0 0 2 1 0 0 0 
+0 0 1 2 0 0 0 
+0 0 1 1 2 0 0 
+-----------------
+Tobias's turn to play
+Tobias played
+0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 
+0 0 2 1 0 0 0 
+0 0 1 2 0 0 0 
+0 2 1 1 2 0 0 
+-----------------
+August's turn to play
+August played
+0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 
+0 0 2 1 0 0 0 
+0 0 1 2 1 0 0 
+0 2 1 1 2 0 0 
+-----------------
+Tobias's turn to play
+Tobias played
+0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 
+0 0 2 1 0 0 0 
+0 2 1 2 1 0 0 
+0 2 1 1 2 0 0 
+-----------------
+August's turn to play
+August played
+0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 
+0 0 1 0 0 0 0 
+0 0 2 1 0 0 0 
+0 2 1 2 1 0 0 
+0 2 1 1 2 0 0 
+-----------------
+Tobias's turn to play
+Tobias played
+0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 
+0 0 1 0 0 0 0 
+0 0 2 1 0 0 0 
+0 2 1 2 1 0 0 
+0 2 1 1 2 2 0 
+-----------------
+August's turn to play
+August played
+0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 
+0 0 1 1 0 0 0 
+0 0 2 1 0 0 0 
+0 2 1 2 1 0 0 
+0 2 1 1 2 2 0 
+-----------------
+Tobias's turn to play
+Tobias played
+0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 
+0 0 1 1 0 0 0 
+0 0 2 1 0 0 0 
+0 2 1 2 1 0 0 
+2 2 1 1 2 2 0 
+-----------------
+August's turn to play
+August played
+0 0 0 0 0 0 0 
+0 0 0 1 0 0 0 
+0 0 1 1 0 0 0 
+0 0 2 1 0 0 0 
+0 2 1 2 1 0 0 
+2 2 1 1 2 2 0 
+-----------------
+Tobias's turn to play
+Tobias played
+0 0 0 2 0 0 0 
+0 0 0 1 0 0 0 
+0 0 1 1 0 0 0 
+0 0 2 1 0 0 0 
+0 2 1 2 1 0 0 
+2 2 1 1 2 2 0 
+-----------------
+August's turn to play
+August played
+0 0 0 2 0 0 0 
+0 0 0 1 0 0 0 
+0 0 1 1 0 0 0 
+0 0 2 1 1 0 0 
+0 2 1 2 1 0 0 
+2 2 1 1 2 2 0 
+-----------------
+Tobias's turn to play
+Tobias played
+0 0 0 2 0 0 0 
+0 0 0 1 0 0 0 
+0 0 1 1 2 0 0 
+0 0 2 1 1 0 0 
+0 2 1 2 1 0 0 
+2 2 1 1 2 2 0 
+-----------------
+August's turn to play
+August played
+0 0 0 2 0 0 0 
+0 0 0 1 0 0 0 
+0 0 1 1 2 0 0 
+0 0 2 1 1 0 0 
+0 2 1 2 1 1 0 
+2 2 1 1 2 2 0 
+-----------------
+Tobias's turn to play
+Tobias played
+0 0 0 2 0 0 0 
+0 0 0 1 0 0 0 
+0 0 1 1 2 0 0 
+0 2 2 1 1 0 0 
+0 2 1 2 1 1 0 
+2 2 1 1 2 2 0 
+-----------------
+August's turn to play
+August played
+0 0 0 2 0 0 0 
+0 0 1 1 0 0 0 
+0 0 1 1 2 0 0 
+0 2 2 1 1 0 0 
+0 2 1 2 1 1 0 
+2 2 1 1 2 2 0 
+-----------------
+Tobias's turn to play
+A new game was started by Tobias and August
+August played
+0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 
+0 0 0 2 0 0 0 
+-----------------
+Tobias's turn to play
+Tobias played
+0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 
+0 0 0 2 1 0 0 
+-----------------
+August's turn to play
+August played
+0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 
+0 0 0 0 2 0 0 
+0 0 0 2 1 0 0 
+-----------------
+Tobias's turn to play
+Tobias played
+0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 
+0 0 0 0 2 0 0 
+0 0 0 2 1 1 0 
+-----------------
+August's turn to play
+August played
+0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 
+0 0 0 0 2 2 0 
+0 0 0 2 1 1 0 
+-----------------
+Tobias's turn to play
+ASlkdnalsd entered the online lobby
+Tobias played
+0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 
+0 0 0 0 2 2 0 
+0 0 0 2 1 1 1 
+-----------------
+August's turn to play
+August played
+0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 
+0 0 0 0 0 2 0 
+0 0 0 0 2 2 0 
+0 0 0 2 1 1 1 
+-----------------
+Tobias's turn to play
+A new game was started by ASlkdnalsd and Tobias
+Tobias played
+0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 
+0 0 0 0 2 0 0 
+-----------------
+ASlkdnalsd's turn to play
+ASinaisd entered the online lobby
+A new game was started by ASinaisd and JohanSuger
+JohanSuger played
+0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 
+0 0 0 2 0 0 0 
+-----------------
+ASinaisd's turn to play
+ASinaisd played
+0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 
+0 0 1 2 0 0 0 
+-----------------
+JohanSuger's turn to play
+JohanSuger played
+0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 
+0 0 0 2 0 0 0 
+0 0 1 2 0 0 0 
+-----------------
+ASinaisd's turn to play
+ASinaisd played
+0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 
+0 0 1 2 0 0 0 
+0 0 1 2 0 0 0 
+-----------------
+JohanSuger's turn to play
+August entered the online lobby
+A new game was started by August and Tobias
+August played
+0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 
+0 0 1 0 0 0 0 
+-----------------
+Tobias's turn to play
+Tobias played
+0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 
+0 0 1 2 0 0 0 
+-----------------
+August's turn to play
+August played
+0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 
+0 0 1 0 0 0 0 
+0 0 1 2 0 0 0 
+-----------------
+Tobias's turn to play
+Tobias played
+0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 
+0 0 1 2 0 0 0 
+0 0 1 2 0 0 0 
+-----------------
+August's turn to play
+August played
+0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 
+0 0 1 0 0 0 0 
+0 0 1 2 0 0 0 
+0 0 1 2 0 0 0 
+-----------------
+Tobias's turn to play
+Tobias played
+0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 
+0 0 2 0 0 0 0 
+0 0 1 0 0 0 0 
+0 0 1 2 0 0 0 
+0 0 1 2 0 0 0 
+-----------------
+August's turn to play
+August played
+0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 
+0 0 2 0 0 0 0 
+0 0 1 1 0 0 0 
+0 0 1 2 0 0 0 
+0 0 1 2 0 0 0 
+-----------------
+Tobias's turn to play
+Tobias played
+0 0 0 0 0 0 0 
+0 0 2 0 0 0 0 
+0 0 2 0 0 0 0 
+0 0 1 1 0 0 0 
+0 0 1 2 0 0 0 
+0 0 1 2 0 0 0 
+-----------------
+August's turn to play
+August played
+0 0 0 0 0 0 0 
+0 0 2 0 0 0 0 
+0 0 2 1 0 0 0 
+0 0 1 1 0 0 0 
+0 0 1 2 0 0 0 
+0 0 1 2 0 0 0 
+-----------------
+Tobias's turn to play
+Tobias played
+0 0 2 0 0 0 0 
+0 0 2 0 0 0 0 
+0 0 2 1 0 0 0 
+0 0 1 1 0 0 0 
+0 0 1 2 0 0 0 
+0 0 1 2 0 0 0 
+-----------------
+August's turn to play
+August played
+0 0 2 0 0 0 0 
+0 0 2 0 0 0 0 
+0 0 2 1 0 0 0 
+0 0 1 1 0 0 0 
+0 0 1 2 0 0 0 
+0 0 1 2 1 0 0 
+-----------------
+Tobias's turn to play
+Tobias played
+0 0 2 0 0 0 0 
+0 0 2 2 0 0 0 
+0 0 2 1 0 0 0 
+0 0 1 1 0 0 0 
+0 0 1 2 0 0 0 
+0 0 1 2 1 0 0 
+-----------------
+August's turn to play
+August played
+0 0 2 1 0 0 0 
+0 0 2 2 0 0 0 
+0 0 2 1 0 0 0 
+0 0 1 1 0 0 0 
+0 0 1 2 0 0 0 
+0 0 1 2 1 0 0 
+-----------------
+Tobias's turn to play
+Tobias played
+0 0 2 1 0 0 0 
+0 0 2 2 0 0 0 
+0 0 2 1 0 0 0 
+0 0 1 1 0 0 0 
+0 0 1 2 2 0 0 
+0 0 1 2 1 0 0 
+-----------------
+August's turn to play
+August played
+0 0 2 1 0 0 0 
+0 0 2 2 0 0 0 
+0 0 2 1 0 0 0 
+0 0 1 1 0 0 0 
+0 0 1 2 2 0 0 
+0 0 1 2 1 1 0 
+-----------------
+Tobias's turn to play
+Tobias played
+0 0 2 1 0 0 0 
+0 0 2 2 0 0 0 
+0 0 2 1 0 0 0 
+0 0 1 1 2 0 0 
+0 0 1 2 2 0 0 
+0 0 1 2 1 1 0 
+-----------------
+August's turn to play
+August played
+0 0 2 1 0 0 0 
+0 0 2 2 0 0 0 
+0 0 2 1 1 0 0 
+0 0 1 1 2 0 0 
+0 0 1 2 2 0 0 
+0 0 1 2 1 1 0 
+-----------------
+Tobias's turn to play
+Tobias played
+0 0 2 1 0 0 0 
+0 0 2 2 0 0 0 
+0 0 2 1 1 0 0 
+0 0 1 1 2 0 0 
+0 0 1 2 2 0 0 
+0 2 1 2 1 1 0 
+-----------------
+August's turn to play
+August played
+0 0 2 1 0 0 0 
+0 0 2 2 0 0 0 
+0 0 2 1 1 0 0 
+0 0 1 1 2 0 0 
+0 0 1 2 2 0 0 
+1 2 1 2 1 1 0 
+-----------------
+Tobias's turn to play
+Tobias played
+0 0 2 1 0 0 0 
+0 0 2 2 0 0 0 
+0 0 2 1 1 0 0 
+0 0 1 1 2 0 0 
+0 2 1 2 2 0 0 
+1 2 1 2 1 1 0 
+-----------------
+August's turn to play
+August played
+0 0 2 1 0 0 0 
+0 0 2 2 0 0 0 
+0 0 2 1 1 0 0 
+0 1 1 1 2 0 0 
+0 2 1 2 2 0 0 
+1 2 1 2 1 1 0 
+-----------------
+Tobias's turn to play
+Tobias played
+0 0 2 1 0 0 0 
+0 0 2 2 0 0 0 
+0 0 2 1 1 0 0 
+0 1 1 1 2 0 0 
+0 2 1 2 2 2 0 
+1 2 1 2 1 1 0 
+-----------------
+August's turn to play
+August played
+0 0 2 1 0 0 0 
+0 0 2 2 0 0 0 
+0 0 2 1 1 0 0 
+0 1 1 1 2 1 0 
+0 2 1 2 2 2 0 
+1 2 1 2 1 1 0 
+-----------------
+Tobias's turn to play
+Tobias played
+0 0 2 1 0 0 0 
+0 0 2 2 0 0 0 
+0 0 2 1 1 0 0 
+0 1 1 1 2 1 0 
+0 2 1 2 2 2 0 
+1 2 1 2 1 1 2 
+-----------------
+August's turn to play
+August played
+0 0 2 1 0 0 0 
+0 0 2 2 0 0 0 
+0 0 2 1 1 0 0 
+0 1 1 1 2 1 0 
+0 2 1 2 2 2 1 
+1 2 1 2 1 1 2 
+-----------------
+Tobias's turn to play
+Tobias played
+0 0 2 1 0 0 0 
+0 0 2 2 0 0 0 
+0 2 2 1 1 0 0 
+0 1 1 1 2 1 0 
+0 2 1 2 2 2 1 
+1 2 1 2 1 1 2 
+-----------------
+August's turn to play
+August played
+0 0 2 1 0 0 0 
+0 0 2 2 0 0 0 
+0 2 2 1 1 0 0 
+0 1 1 1 2 1 0 
+1 2 1 2 2 2 1 
+1 2 1 2 1 1 2 
+-----------------
+Tobias's turn to play
+Tobias played
+0 0 2 1 0 0 0 
+0 0 2 2 0 0 0 
+0 2 2 1 1 0 0 
+2 1 1 1 2 1 0 
+1 2 1 2 2 2 1 
+1 2 1 2 1 1 2 
+-----------------
+August's turn to play
+August played
+0 0 2 1 0 0 0 
+0 0 2 2 0 0 0 
+1 2 2 1 1 0 0 
+2 1 1 1 2 1 0 
+1 2 1 2 2 2 1 
+1 2 1 2 1 1 2 
+-----------------
+Tobias's turn to play
+Tobias played
+0 0 2 1 0 0 0 
+2 0 2 2 0 0 0 
+1 2 2 1 1 0 0 
+2 1 1 1 2 1 0 
+1 2 1 2 2 2 1 
+1 2 1 2 1 1 2 
+-----------------
+August's turn to play
+August played
+0 0 2 1 0 0 0 
+2 1 2 2 0 0 0 
+1 2 2 1 1 0 0 
+2 1 1 1 2 1 0 
+1 2 1 2 2 2 1 
+1 2 1 2 1 1 2 
+-----------------
+Tobias's turn to play
+Tobias played
+2 0 2 1 0 0 0 
+2 1 2 2 0 0 0 
+1 2 2 1 1 0 0 
+2 1 1 1 2 1 0 
+1 2 1 2 2 2 1 
+1 2 1 2 1 1 2 
+-----------------
+August's turn to play
+August played
+2 1 2 1 0 0 0 
+2 1 2 2 0 0 0 
+1 2 2 1 1 0 0 
+2 1 1 1 2 1 0 
+1 2 1 2 2 2 1 
+1 2 1 2 1 1 2 
+-----------------
+Tobias's turn to play
+Tobias played
+2 1 2 1 0 0 0 
+2 1 2 2 0 0 0 
+1 2 2 1 1 0 0 
+2 1 1 1 2 1 2 
+1 2 1 2 2 2 1 
+1 2 1 2 1 1 2 
+-----------------
+August's turn to play
+August played
+2 1 2 1 0 0 0 
+2 1 2 2 0 0 0 
+1 2 2 1 1 1 0 
+2 1 1 1 2 1 2 
+1 2 1 2 2 2 1 
+1 2 1 2 1 1 2 
+-----------------
+Tobias's turn to play
+Tobias played
+2 1 2 1 0 0 0 
+2 1 2 2 0 0 0 
+1 2 2 1 1 1 2 
+2 1 1 1 2 1 2 
+1 2 1 2 2 2 1 
+1 2 1 2 1 1 2 
+-----------------
+August's turn to play
+August played
+2 1 2 1 0 0 0 
+2 1 2 2 0 0 1 
+1 2 2 1 1 1 2 
+2 1 1 1 2 1 2 
+1 2 1 2 2 2 1 
+1 2 1 2 1 1 2 
+-----------------
+Tobias's turn to play
+Tobias played
+2 1 2 1 0 0 0 
+2 1 2 2 0 2 1 
+1 2 2 1 1 1 2 
+2 1 1 1 2 1 2 
+1 2 1 2 2 2 1 
+1 2 1 2 1 1 2 
+-----------------
+August's turn to play
+August played
+2 1 2 1 0 0 0 
+2 1 2 2 1 2 1 
+1 2 2 1 1 1 2 
+2 1 1 1 2 1 2 
+1 2 1 2 2 2 1 
+1 2 1 2 1 1 2 
+-----------------
+Tobias's turn to play
+Tobias played
+2 1 2 1 0 2 0 
+2 1 2 2 1 2 1 
+1 2 2 1 1 1 2 
+2 1 1 1 2 1 2 
+1 2 1 2 2 2 1 
+1 2 1 2 1 1 2 
+-----------------
+August's turn to play
+August played
+2 1 2 1 1 2 0 
+2 1 2 2 1 2 1 
+1 2 2 1 1 1 2 
+2 1 1 1 2 1 2 
+1 2 1 2 2 2 1 
+1 2 1 2 1 1 2 
+-----------------
+Tobias's turn to play
+Tobias played
+2 1 2 1 1 2 2 
+2 1 2 2 1 2 1 
+1 2 2 1 1 1 2 
+2 1 1 1 2 1 2 
+1 2 1 2 2 2 1 
+1 2 1 2 1 1 2 
+-----------------
+August's turn to play
+Draw, the board is full!
+Draw, the board is full!
+August entered the online lobby
+A new game was started by August and gfh
+August played
+0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 
+1 0 0 0 0 0 0 
+-----------------
+gfh's turn to play
+gfh played
+0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 
+2 0 0 0 0 0 0 
+1 0 0 0 0 0 0 
+-----------------
+August's turn to play
+August played
+0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 
+1 0 0 0 0 0 0 
+2 0 0 0 0 0 0 
+1 0 0 0 0 0 0 
+-----------------
+gfh's turn to play
+gfh played
+0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 
+2 0 0 0 0 0 0 
+1 0 0 0 0 0 0 
+2 0 0 0 0 0 0 
+1 0 0 0 0 0 0 
+-----------------
+August's turn to play
+August played
+0 0 0 0 0 0 0 
+1 0 0 0 0 0 0 
+2 0 0 0 0 0 0 
+1 0 0 0 0 0 0 
+2 0 0 0 0 0 0 
+1 0 0 0 0 0 0 
+-----------------
+gfh's turn to play
+gfh played
+2 0 0 0 0 0 0 
+1 0 0 0 0 0 0 
+2 0 0 0 0 0 0 
+1 0 0 0 0 0 0 
+2 0 0 0 0 0 0 
+1 0 0 0 0 0 0 
+-----------------
+August's turn to play
+August played
+2 0 0 0 0 0 0 
+1 0 0 0 0 0 0 
+2 0 0 0 0 0 0 
+1 0 0 0 0 0 0 
+2 0 0 0 0 0 0 
+1 1 0 0 0 0 0 
+-----------------
+gfh's turn to play
+gfh played
+2 0 0 0 0 0 0 
+1 0 0 0 0 0 0 
+2 0 0 0 0 0 0 
+1 0 0 0 0 0 0 
+2 2 0 0 0 0 0 
+1 1 0 0 0 0 0 
+-----------------
+August's turn to play
+August played
+2 0 0 0 0 0 0 
+1 0 0 0 0 0 0 
+2 0 0 0 0 0 0 
+1 1 0 0 0 0 0 
+2 2 0 0 0 0 0 
+1 1 0 0 0 0 0 
+-----------------
+gfh's turn to play
+gfh played
+2 0 0 0 0 0 0 
+1 0 0 0 0 0 0 
+2 2 0 0 0 0 0 
+1 1 0 0 0 0 0 
+2 2 0 0 0 0 0 
+1 1 0 0 0 0 0 
+-----------------
+August's turn to play
+August played
+2 0 0 0 0 0 0 
+1 1 0 0 0 0 0 
+2 2 0 0 0 0 0 
+1 1 0 0 0 0 0 
+2 2 0 0 0 0 0 
+1 1 0 0 0 0 0 
+-----------------
+gfh's turn to play
+gfh played
+2 2 0 0 0 0 0 
+1 1 0 0 0 0 0 
+2 2 0 0 0 0 0 
+1 1 0 0 0 0 0 
+2 2 0 0 0 0 0 
+1 1 0 0 0 0 0 
+-----------------
+August's turn to play
+August played
+2 2 0 0 0 0 0 
+1 1 0 0 0 0 0 
+2 2 0 0 0 0 0 
+1 1 0 0 0 0 0 
+2 2 0 0 0 0 0 
+1 1 1 0 0 0 0 
+-----------------
+gfh's turn to play
+gfh played
+2 2 0 0 0 0 0 
+1 1 0 0 0 0 0 
+2 2 0 0 0 0 0 
+1 1 0 0 0 0 0 
+2 2 2 0 0 0 0 
+1 1 1 0 0 0 0 
+-----------------
+August's turn to play
+August played
+2 2 0 0 0 0 0 
+1 1 0 0 0 0 0 
+2 2 0 0 0 0 0 
+1 1 1 0 0 0 0 
+2 2 2 0 0 0 0 
+1 1 1 0 0 0 0 
+-----------------
+gfh's turn to play
+gfh played
+2 2 0 0 0 0 0 
+1 1 0 0 0 0 0 
+2 2 2 0 0 0 0 
+1 1 1 0 0 0 0 
+2 2 2 0 0 0 0 
+1 1 1 0 0 0 0 
+-----------------
+August's turn to play
+August played
+2 2 0 0 0 0 0 
+1 1 1 0 0 0 0 
+2 2 2 0 0 0 0 
+1 1 1 0 0 0 0 
+2 2 2 0 0 0 0 
+1 1 1 0 0 0 0 
+-----------------
+gfh's turn to play
+gfh played
+2 2 2 0 0 0 0 
+1 1 1 0 0 0 0 
+2 2 2 0 0 0 0 
+1 1 1 0 0 0 0 
+2 2 2 0 0 0 0 
+1 1 1 0 0 0 0 
+-----------------
+August's turn to play
+August played
+2 2 2 0 0 0 0 
+1 1 1 0 0 0 0 
+2 2 2 0 0 0 0 
+1 1 1 0 0 0 0 
+2 2 2 0 0 0 0 
+1 1 1 0 1 0 0 
+-----------------
+gfh's turn to play
+gfh played
+2 2 2 0 0 0 0 
+1 1 1 0 0 0 0 
+2 2 2 0 0 0 0 
+1 1 1 0 0 0 0 
+2 2 2 0 0 0 0 
+1 1 1 2 1 0 0 
+-----------------
+August's turn to play
+August played
+2 2 2 0 0 0 0 
+1 1 1 0 0 0 0 
+2 2 2 0 0 0 0 
+1 1 1 0 0 0 0 
+2 2 2 1 0 0 0 
+1 1 1 2 1 0 0 
+-----------------
+gfh's turn to play
+gfh played
+2 2 2 0 0 0 0 
+1 1 1 0 0 0 0 
+2 2 2 0 0 0 0 
+1 1 1 2 0 0 0 
+2 2 2 1 0 0 0 
+1 1 1 2 1 0 0 
+-----------------
+August's turn to play
+August played
+2 2 2 0 0 0 0 
+1 1 1 0 0 0 0 
+2 2 2 1 0 0 0 
+1 1 1 2 0 0 0 
+2 2 2 1 0 0 0 
+1 1 1 2 1 0 0 
+-----------------
+gfh's turn to play
+gfh played
+2 2 2 0 0 0 0 
+1 1 1 2 0 0 0 
+2 2 2 1 0 0 0 
+1 1 1 2 0 0 0 
+2 2 2 1 0 0 0 
+1 1 1 2 1 0 0 
+-----------------
+August's turn to play
+August played
+2 2 2 1 0 0 0 
+1 1 1 2 0 0 0 
+2 2 2 1 0 0 0 
+1 1 1 2 0 0 0 
+2 2 2 1 0 0 0 
+1 1 1 2 1 0 0 
+-----------------
+gfh's turn to play
+gfh played
+2 2 2 1 0 0 0 
+1 1 1 2 0 0 0 
+2 2 2 1 0 0 0 
+1 1 1 2 0 0 0 
+2 2 2 1 2 0 0 
+1 1 1 2 1 0 0 
+-----------------
+August's turn to play
+August played
+2 2 2 1 0 0 0 
+1 1 1 2 0 0 0 
+2 2 2 1 0 0 0 
+1 1 1 2 1 0 0 
+2 2 2 1 2 0 0 
+1 1 1 2 1 0 0 
+-----------------
+gfh's turn to play
+gfh played
+2 2 2 1 0 0 0 
+1 1 1 2 0 0 0 
+2 2 2 1 2 0 0 
+1 1 1 2 1 0 0 
+2 2 2 1 2 0 0 
+1 1 1 2 1 0 0 
+-----------------
+August's turn to play
+August played
+2 2 2 1 0 0 0 
+1 1 1 2 1 0 0 
+2 2 2 1 2 0 0 
+1 1 1 2 1 0 0 
+2 2 2 1 2 0 0 
+1 1 1 2 1 0 0 
+-----------------
+gfh's turn to play
+gfh played
+2 2 2 1 2 0 0 
+1 1 1 2 1 0 0 
+2 2 2 1 2 0 0 
+1 1 1 2 1 0 0 
+2 2 2 1 2 0 0 
+1 1 1 2 1 0 0 
+-----------------
+August's turn to play
+August played
+2 2 2 1 2 0 0 
+1 1 1 2 1 0 0 
+2 2 2 1 2 0 0 
+1 1 1 2 1 0 0 
+2 2 2 1 2 0 0 
+1 1 1 2 1 1 0 
+-----------------
+gfh's turn to play
+gfh played
+2 2 2 1 2 0 0 
+1 1 1 2 1 0 0 
+2 2 2 1 2 0 0 
+1 1 1 2 1 0 0 
+2 2 2 1 2 2 0 
+1 1 1 2 1 1 0 
+-----------------
+August's turn to play
+August played
+2 2 2 1 2 0 0 
+1 1 1 2 1 0 0 
+2 2 2 1 2 0 0 
+1 1 1 2 1 1 0 
+2 2 2 1 2 2 0 
+1 1 1 2 1 1 0 
+-----------------
+gfh's turn to play
+gfh played
+2 2 2 1 2 0 0 
+1 1 1 2 1 0 0 
+2 2 2 1 2 2 0 
+1 1 1 2 1 1 0 
+2 2 2 1 2 2 0 
+1 1 1 2 1 1 0 
+-----------------
+August's turn to play
+August played
+2 2 2 1 2 0 0 
+1 1 1 2 1 1 0 
+2 2 2 1 2 2 0 
+1 1 1 2 1 1 0 
+2 2 2 1 2 2 0 
+1 1 1 2 1 1 0 
+-----------------
+gfh's turn to play
+gfh played
+2 2 2 1 2 2 0 
+1 1 1 2 1 1 0 
+2 2 2 1 2 2 0 
+1 1 1 2 1 1 0 
+2 2 2 1 2 2 0 
+1 1 1 2 1 1 0 
+-----------------
+August's turn to play
+August played
+2 2 2 1 2 2 0 
+1 1 1 2 1 1 0 
+2 2 2 1 2 2 0 
+1 1 1 2 1 1 0 
+2 2 2 1 2 2 0 
+1 1 1 2 1 1 1 
+-----------------
+gfh's turn to play
+gfh played
+2 2 2 1 2 2 0 
+1 1 1 2 1 1 0 
+2 2 2 1 2 2 0 
+1 1 1 2 1 1 0 
+2 2 2 1 2 2 2 
+1 1 1 2 1 1 1 
+-----------------
+August's turn to play
+August played
+2 2 2 1 2 2 0 
+1 1 1 2 1 1 0 
+2 2 2 1 2 2 0 
+1 1 1 2 1 1 1 
+2 2 2 1 2 2 2 
+1 1 1 2 1 1 1 
+-----------------
+gfh's turn to play
+gfh played
+2 2 2 1 2 2 0 
+1 1 1 2 1 1 0 
+2 2 2 1 2 2 2 
+1 1 1 2 1 1 1 
+2 2 2 1 2 2 2 
+1 1 1 2 1 1 1 
+-----------------
+August's turn to play
+August played
+2 2 2 1 2 2 0 
+1 1 1 2 1 1 1 
+2 2 2 1 2 2 2 
+1 1 1 2 1 1 1 
+2 2 2 1 2 2 2 
+1 1 1 2 1 1 1 
+-----------------
+gfh's turn to play
+gfh played
+2 2 2 1 2 2 2 
+1 1 1 2 1 1 1 
+2 2 2 1 2 2 2 
+1 1 1 2 1 1 1 
+2 2 2 1 2 2 2 
+1 1 1 2 1 1 1 
+-----------------
+August's turn to play
+Draw, the board is full!
+August entered the online lobby
+A new game was started by August and jk
+August played
+0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 
+1 0 0 0 0 0 0 
+-----------------
+jk's turn to play
+jk played
+0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 
+2 0 0 0 0 0 0 
+1 0 0 0 0 0 0 
+-----------------
+August's turn to play
+August played
+0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 
+1 0 0 0 0 0 0 
+2 0 0 0 0 0 0 
+1 0 0 0 0 0 0 
+-----------------
+jk's turn to play
+jk played
+0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 
+2 0 0 0 0 0 0 
+1 0 0 0 0 0 0 
+2 0 0 0 0 0 0 
+1 0 0 0 0 0 0 
+-----------------
+August's turn to play
+jk played
+0 0 0 0 0 0 0 
+2 0 0 0 0 0 0 
+2 0 0 0 0 0 0 
+1 0 0 0 0 0 0 
+2 0 0 0 0 0 0 
+1 0 0 0 0 0 0 
+-----------------
+jk's turn to play
+jk played
+2 0 0 0 0 0 0 
+2 0 0 0 0 0 0 
+2 0 0 0 0 0 0 
+1 0 0 0 0 0 0 
+2 0 0 0 0 0 0 
+1 0 0 0 0 0 0 
+-----------------
+August's turn to play
+August played
+2 0 0 0 0 0 0 
+2 0 0 0 0 0 0 
+2 0 0 0 0 0 0 
+1 0 0 0 0 0 0 
+2 0 0 0 0 0 0 
+1 1 0 0 0 0 0 
+-----------------
+jk's turn to play
+jk played
+2 0 0 0 0 0 0 
+2 0 0 0 0 0 0 
+2 0 0 0 0 0 0 
+1 0 0 0 0 0 0 
+2 2 0 0 0 0 0 
+1 1 0 0 0 0 0 
+-----------------
+August's turn to play
+August played
+2 0 0 0 0 0 0 
+2 0 0 0 0 0 0 
+2 0 0 0 0 0 0 
+1 1 0 0 0 0 0 
+2 2 0 0 0 0 0 
+1 1 0 0 0 0 0 
+-----------------
+jk's turn to play
+jk played
+2 0 0 0 0 0 0 
+2 0 0 0 0 0 0 
+2 2 0 0 0 0 0 
+1 1 0 0 0 0 0 
+2 2 0 0 0 0 0 
+1 1 0 0 0 0 0 
+-----------------
+August's turn to play
+August played
+2 0 0 0 0 0 0 
+2 1 0 0 0 0 0 
+2 2 0 0 0 0 0 
+1 1 0 0 0 0 0 
+2 2 0 0 0 0 0 
+1 1 0 0 0 0 0 
+-----------------
+jk's turn to play
+jk played
+2 2 0 0 0 0 0 
+2 1 0 0 0 0 0 
+2 2 0 0 0 0 0 
+1 1 0 0 0 0 0 
+2 2 0 0 0 0 0 
+1 1 0 0 0 0 0 
+-----------------
+August's turn to play
+August played
+2 2 0 0 0 0 0 
+2 1 0 0 0 0 0 
+2 2 0 0 0 0 0 
+1 1 0 0 0 0 0 
+2 2 0 0 0 0 0 
+1 1 1 0 0 0 0 
+-----------------
+jk's turn to play
+jk played
+2 2 0 0 0 0 0 
+2 1 0 0 0 0 0 
+2 2 0 0 0 0 0 
+1 1 0 0 0 0 0 
+2 2 2 0 0 0 0 
+1 1 1 0 0 0 0 
+-----------------
+August's turn to play
+August played
+2 2 0 0 0 0 0 
+2 1 0 0 0 0 0 
+2 2 0 0 0 0 0 
+1 1 1 0 0 0 0 
+2 2 2 0 0 0 0 
+1 1 1 0 0 0 0 
+-----------------
+jk's turn to play
+jk played
+2 2 0 0 0 0 0 
+2 1 0 0 0 0 0 
+2 2 2 0 0 0 0 
+1 1 1 0 0 0 0 
+2 2 2 0 0 0 0 
+1 1 1 0 0 0 0 
+-----------------
+August's turn to play
+August played
+2 2 0 0 0 0 0 
+2 1 1 0 0 0 0 
+2 2 2 0 0 0 0 
+1 1 1 0 0 0 0 
+2 2 2 0 0 0 0 
+1 1 1 0 0 0 0 
+-----------------
+jk's turn to play
+jk played
+2 2 2 0 0 0 0 
+2 1 1 0 0 0 0 
+2 2 2 0 0 0 0 
+1 1 1 0 0 0 0 
+2 2 2 0 0 0 0 
+1 1 1 0 0 0 0 
+-----------------
+August's turn to play
+August played
+2 2 2 0 0 0 0 
+2 1 1 0 0 0 0 
+2 2 2 0 0 0 0 
+1 1 1 0 0 0 0 
+2 2 2 0 0 0 0 
+1 1 1 0 1 0 0 
+-----------------
+jk's turn to play
+jk played
+2 2 2 0 0 0 0 
+2 1 1 0 0 0 0 
+2 2 2 0 0 0 0 
+1 1 1 0 0 0 0 
+2 2 2 0 0 0 0 
+1 1 1 2 1 0 0 
+-----------------
+August's turn to play
+August played
+2 2 2 0 0 0 0 
+2 1 1 0 0 0 0 
+2 2 2 0 0 0 0 
+1 1 1 0 0 0 0 
+2 2 2 1 0 0 0 
+1 1 1 2 1 0 0 
+-----------------
+jk's turn to play
+jk played
+2 2 2 0 0 0 0 
+2 1 1 0 0 0 0 
+2 2 2 0 0 0 0 
+1 1 1 2 0 0 0 
+2 2 2 1 0 0 0 
+1 1 1 2 1 0 0 
+-----------------
+August's turn to play
+August played
+2 2 2 0 0 0 0 
+2 1 1 0 0 0 0 
+2 2 2 1 0 0 0 
+1 1 1 2 0 0 0 
+2 2 2 1 0 0 0 
+1 1 1 2 1 0 0 
+-----------------
+jk's turn to play
+jk played
+2 2 2 0 0 0 0 
+2 1 1 2 0 0 0 
+2 2 2 1 0 0 0 
+1 1 1 2 0 0 0 
+2 2 2 1 0 0 0 
+1 1 1 2 1 0 0 
+-----------------
+August's turn to play
+August played
+2 2 2 1 0 0 0 
+2 1 1 2 0 0 0 
+2 2 2 1 0 0 0 
+1 1 1 2 0 0 0 
+2 2 2 1 0 0 0 
+1 1 1 2 1 0 0 
+-----------------
+jk's turn to play
+jk played
+2 2 2 1 0 0 0 
+2 1 1 2 0 0 0 
+2 2 2 1 0 0 0 
+1 1 1 2 0 0 0 
+2 2 2 1 2 0 0 
+1 1 1 2 1 0 0 
+-----------------
+August's turn to play
+August played
+2 2 2 1 0 0 0 
+2 1 1 2 0 0 0 
+2 2 2 1 0 0 0 
+1 1 1 2 1 0 0 
+2 2 2 1 2 0 0 
+1 1 1 2 1 0 0 
+-----------------
+jk's turn to play
+jk played
+2 2 2 1 0 0 0 
+2 1 1 2 0 0 0 
+2 2 2 1 2 0 0 
+1 1 1 2 1 0 0 
+2 2 2 1 2 0 0 
+1 1 1 2 1 0 0 
+-----------------
+August's turn to play
+August played
+2 2 2 1 0 0 0 
+2 1 1 2 1 0 0 
+2 2 2 1 2 0 0 
+1 1 1 2 1 0 0 
+2 2 2 1 2 0 0 
+1 1 1 2 1 0 0 
+-----------------
+jk's turn to play
+jk played
+2 2 2 1 2 0 0 
+2 1 1 2 1 0 0 
+2 2 2 1 2 0 0 
+1 1 1 2 1 0 0 
+2 2 2 1 2 0 0 
+1 1 1 2 1 0 0 
+-----------------
+August's turn to play
+August played
+2 2 2 1 2 0 0 
+2 1 1 2 1 0 0 
+2 2 2 1 2 0 0 
+1 1 1 2 1 0 0 
+2 2 2 1 2 0 0 
+1 1 1 2 1 1 0 
+-----------------
+jk's turn to play
+jk played
+2 2 2 1 2 0 0 
+2 1 1 2 1 0 0 
+2 2 2 1 2 0 0 
+1 1 1 2 1 0 0 
+2 2 2 1 2 2 0 
+1 1 1 2 1 1 0 
+-----------------
+August's turn to play
+August played
+2 2 2 1 2 0 0 
+2 1 1 2 1 0 0 
+2 2 2 1 2 0 0 
+1 1 1 2 1 1 0 
+2 2 2 1 2 2 0 
+1 1 1 2 1 1 0 
+-----------------
+jk's turn to play
+jk played
+2 2 2 1 2 0 0 
+2 1 1 2 1 0 0 
+2 2 2 1 2 2 0 
+1 1 1 2 1 1 0 
+2 2 2 1 2 2 0 
+1 1 1 2 1 1 0 
+-----------------
+August's turn to play
+August played
+2 2 2 1 2 0 0 
+2 1 1 2 1 1 0 
+2 2 2 1 2 2 0 
+1 1 1 2 1 1 0 
+2 2 2 1 2 2 0 
+1 1 1 2 1 1 0 
+-----------------
+jk's turn to play
+jk played
+2 2 2 1 2 2 0 
+2 1 1 2 1 1 0 
+2 2 2 1 2 2 0 
+1 1 1 2 1 1 0 
+2 2 2 1 2 2 0 
+1 1 1 2 1 1 0 
+-----------------
+August's turn to play
+August played
+2 2 2 1 2 2 0 
+2 1 1 2 1 1 0 
+2 2 2 1 2 2 0 
+1 1 1 2 1 1 0 
+2 2 2 1 2 2 0 
+1 1 1 2 1 1 1 
+-----------------
+jk's turn to play
+jk played
+2 2 2 1 2 2 0 
+2 1 1 2 1 1 0 
+2 2 2 1 2 2 0 
+1 1 1 2 1 1 0 
+2 2 2 1 2 2 2 
+1 1 1 2 1 1 1 
+-----------------
+August's turn to play
+August played
+2 2 2 1 2 2 0 
+2 1 1 2 1 1 0 
+2 2 2 1 2 2 0 
+1 1 1 2 1 1 1 
+2 2 2 1 2 2 2 
+1 1 1 2 1 1 1 
+-----------------
+jk's turn to play
+jk played
+2 2 2 1 2 2 0 
+2 1 1 2 1 1 0 
+2 2 2 1 2 2 2 
+1 1 1 2 1 1 1 
+2 2 2 1 2 2 2 
+1 1 1 2 1 1 1 
+-----------------
+August's turn to play
+August played
+2 2 2 1 2 2 0 
+2 1 1 2 1 1 1 
+2 2 2 1 2 2 2 
+1 1 1 2 1 1 1 
+2 2 2 1 2 2 2 
+1 1 1 2 1 1 1 
+-----------------
+jk's turn to play
+jk played
+2 2 2 1 2 2 2 
+2 1 1 2 1 1 1 
+2 2 2 1 2 2 2 
+1 1 1 2 1 1 1 
+2 2 2 1 2 2 2 
+1 1 1 2 1 1 1 
+-----------------
+August's turn to play
+Draw, the board is full!
+August entered the online lobby
+A new game was started by August and asd
+asd played
+0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 
+2 0 0 0 0 0 0 
+-----------------
+August's turn to play
+August played
+0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 
+1 0 0 0 0 0 0 
+2 0 0 0 0 0 0 
+-----------------
+asd's turn to play
+asd played
+0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 
+2 0 0 0 0 0 0 
+1 0 0 0 0 0 0 
+2 0 0 0 0 0 0 
+-----------------
+August's turn to play
+August played
+0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 
+1 0 0 0 0 0 0 
+2 0 0 0 0 0 0 
+1 0 0 0 0 0 0 
+2 0 0 0 0 0 0 
+-----------------
+asd's turn to play
+asd played
+0 0 0 0 0 0 0 
+2 0 0 0 0 0 0 
+1 0 0 0 0 0 0 
+2 0 0 0 0 0 0 
+1 0 0 0 0 0 0 
+2 0 0 0 0 0 0 
+-----------------
+August's turn to play
+August played
+1 0 0 0 0 0 0 
+2 0 0 0 0 0 0 
+1 0 0 0 0 0 0 
+2 0 0 0 0 0 0 
+1 0 0 0 0 0 0 
+2 0 0 0 0 0 0 
+-----------------
+asd's turn to play
+asd played
+1 0 0 0 0 0 0 
+2 0 0 0 0 0 0 
+1 0 0 0 0 0 0 
+2 0 0 0 0 0 0 
+1 0 0 0 0 0 0 
+2 2 0 0 0 0 0 
+-----------------
+August's turn to play
+August played
+1 0 0 0 0 0 0 
+2 0 0 0 0 0 0 
+1 0 0 0 0 0 0 
+2 0 0 0 0 0 0 
+1 1 0 0 0 0 0 
+2 2 0 0 0 0 0 
+-----------------
+asd's turn to play
+asd played
+1 0 0 0 0 0 0 
+2 0 0 0 0 0 0 
+1 0 0 0 0 0 0 
+2 2 0 0 0 0 0 
+1 1 0 0 0 0 0 
+2 2 0 0 0 0 0 
+-----------------
+August's turn to play
+August played
+1 0 0 0 0 0 0 
+2 0 0 0 0 0 0 
+1 1 0 0 0 0 0 
+2 2 0 0 0 0 0 
+1 1 0 0 0 0 0 
+2 2 0 0 0 0 0 
+-----------------
+asd's turn to play
+asd played
+1 0 0 0 0 0 0 
+2 2 0 0 0 0 0 
+1 1 0 0 0 0 0 
+2 2 0 0 0 0 0 
+1 1 0 0 0 0 0 
+2 2 0 0 0 0 0 
+-----------------
+August's turn to play
+August played
+1 1 0 0 0 0 0 
+2 2 0 0 0 0 0 
+1 1 0 0 0 0 0 
+2 2 0 0 0 0 0 
+1 1 0 0 0 0 0 
+2 2 0 0 0 0 0 
+-----------------
+asd's turn to play
+asd played
+1 1 0 0 0 0 0 
+2 2 0 0 0 0 0 
+1 1 0 0 0 0 0 
+2 2 0 0 0 0 0 
+1 1 0 0 0 0 0 
+2 2 2 0 0 0 0 
+-----------------
+August's turn to play
+August played
+1 1 0 0 0 0 0 
+2 2 0 0 0 0 0 
+1 1 0 0 0 0 0 
+2 2 0 0 0 0 0 
+1 1 1 0 0 0 0 
+2 2 2 0 0 0 0 
+-----------------
+asd's turn to play
+asd played
+1 1 0 0 0 0 0 
+2 2 0 0 0 0 0 
+1 1 0 0 0 0 0 
+2 2 2 0 0 0 0 
+1 1 1 0 0 0 0 
+2 2 2 0 0 0 0 
+-----------------
+August's turn to play
+August played
+1 1 0 0 0 0 0 
+2 2 0 0 0 0 0 
+1 1 1 0 0 0 0 
+2 2 2 0 0 0 0 
+1 1 1 0 0 0 0 
+2 2 2 0 0 0 0 
+-----------------
+asd's turn to play
+asd played
+1 1 0 0 0 0 0 
+2 2 2 0 0 0 0 
+1 1 1 0 0 0 0 
+2 2 2 0 0 0 0 
+1 1 1 0 0 0 0 
+2 2 2 0 0 0 0 
+-----------------
+August's turn to play
+August played
+1 1 1 0 0 0 0 
+2 2 2 0 0 0 0 
+1 1 1 0 0 0 0 
+2 2 2 0 0 0 0 
+1 1 1 0 0 0 0 
+2 2 2 0 0 0 0 
+-----------------
+asd's turn to play
+asd played
+1 1 1 0 0 0 0 
+2 2 2 0 0 0 0 
+1 1 1 0 0 0 0 
+2 2 2 0 0 0 0 
+1 1 1 0 0 0 0 
+2 2 2 0 2 0 0 
+-----------------
+August's turn to play
+August played
+1 1 1 0 0 0 0 
+2 2 2 0 0 0 0 
+1 1 1 0 0 0 0 
+2 2 2 0 0 0 0 
+1 1 1 0 0 0 0 
+2 2 2 1 2 0 0 
+-----------------
+asd's turn to play
+asd played
+1 1 1 0 0 0 0 
+2 2 2 0 0 0 0 
+1 1 1 0 0 0 0 
+2 2 2 0 0 0 0 
+1 1 1 2 0 0 0 
+2 2 2 1 2 0 0 
+-----------------
+August's turn to play
+asd played
+1 1 1 0 0 0 0 
+2 2 2 0 0 0 0 
+1 1 1 0 0 0 0 
+2 2 2 2 0 0 0 
+1 1 1 2 0 0 0 
+2 2 2 1 2 0 0 
+-----------------
+asd's turn to play
+asd entered the online lobby
+A new game was started by asd and August
+asd played
+0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 
+1 0 0 0 0 0 0 
+-----------------
+August's turn to play
+August played
+0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 
+2 0 0 0 0 0 0 
+1 0 0 0 0 0 0 
+-----------------
+asd's turn to play
+asd played
+0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 
+1 0 0 0 0 0 0 
+2 0 0 0 0 0 0 
+1 0 0 0 0 0 0 
+-----------------
+August's turn to play
+August played
+0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 
+2 0 0 0 0 0 0 
+1 0 0 0 0 0 0 
+2 0 0 0 0 0 0 
+1 0 0 0 0 0 0 
+-----------------
+asd's turn to play
+asd played
+0 0 0 0 0 0 0 
+1 0 0 0 0 0 0 
+2 0 0 0 0 0 0 
+1 0 0 0 0 0 0 
+2 0 0 0 0 0 0 
+1 0 0 0 0 0 0 
+-----------------
+August's turn to play
+August played
+2 0 0 0 0 0 0 
+1 0 0 0 0 0 0 
+2 0 0 0 0 0 0 
+1 0 0 0 0 0 0 
+2 0 0 0 0 0 0 
+1 0 0 0 0 0 0 
+-----------------
+asd's turn to play
+asd played
+2 0 0 0 0 0 0 
+1 0 0 0 0 0 0 
+2 0 0 0 0 0 0 
+1 0 0 0 0 0 0 
+2 0 0 0 0 0 0 
+1 1 0 0 0 0 0 
+-----------------
+August's turn to play
+August played
+2 0 0 0 0 0 0 
+1 0 0 0 0 0 0 
+2 0 0 0 0 0 0 
+1 0 0 0 0 0 0 
+2 2 0 0 0 0 0 
+1 1 0 0 0 0 0 
+-----------------
+asd's turn to play
+asd played
+2 0 0 0 0 0 0 
+1 0 0 0 0 0 0 
+2 0 0 0 0 0 0 
+1 1 0 0 0 0 0 
+2 2 0 0 0 0 0 
+1 1 0 0 0 0 0 
+-----------------
+August's turn to play
+August played
+2 0 0 0 0 0 0 
+1 0 0 0 0 0 0 
+2 2 0 0 0 0 0 
+1 1 0 0 0 0 0 
+2 2 0 0 0 0 0 
+1 1 0 0 0 0 0 
+-----------------
+asd's turn to play
+asd played
+2 0 0 0 0 0 0 
+1 1 0 0 0 0 0 
+2 2 0 0 0 0 0 
+1 1 0 0 0 0 0 
+2 2 0 0 0 0 0 
+1 1 0 0 0 0 0 
+-----------------
+August's turn to play
+August played
+2 2 0 0 0 0 0 
+1 1 0 0 0 0 0 
+2 2 0 0 0 0 0 
+1 1 0 0 0 0 0 
+2 2 0 0 0 0 0 
+1 1 0 0 0 0 0 
+-----------------
+asd's turn to play
+asd played
+2 2 0 0 0 0 0 
+1 1 0 0 0 0 0 
+2 2 0 0 0 0 0 
+1 1 0 0 0 0 0 
+2 2 0 0 0 0 0 
+1 1 1 0 0 0 0 
+-----------------
+August's turn to play
+August played
+2 2 0 0 0 0 0 
+1 1 0 0 0 0 0 
+2 2 0 0 0 0 0 
+1 1 0 0 0 0 0 
+2 2 2 0 0 0 0 
+1 1 1 0 0 0 0 
+-----------------
+asd's turn to play
+asd played
+2 2 0 0 0 0 0 
+1 1 0 0 0 0 0 
+2 2 0 0 0 0 0 
+1 1 1 0 0 0 0 
+2 2 2 0 0 0 0 
+1 1 1 0 0 0 0 
+-----------------
+August's turn to play
+August played
+2 2 0 0 0 0 0 
+1 1 0 0 0 0 0 
+2 2 2 0 0 0 0 
+1 1 1 0 0 0 0 
+2 2 2 0 0 0 0 
+1 1 1 0 0 0 0 
+-----------------
+asd's turn to play
+asd played
+2 2 0 0 0 0 0 
+1 1 1 0 0 0 0 
+2 2 2 0 0 0 0 
+1 1 1 0 0 0 0 
+2 2 2 0 0 0 0 
+1 1 1 0 0 0 0 
+-----------------
+August's turn to play
+August played
+2 2 2 0 0 0 0 
+1 1 1 0 0 0 0 
+2 2 2 0 0 0 0 
+1 1 1 0 0 0 0 
+2 2 2 0 0 0 0 
+1 1 1 0 0 0 0 
+-----------------
+asd's turn to play
+asd played
+2 2 2 0 0 0 0 
+1 1 1 0 0 0 0 
+2 2 2 0 0 0 0 
+1 1 1 0 0 0 0 
+2 2 2 0 0 0 0 
+1 1 1 0 1 0 0 
+-----------------
+August's turn to play
+August played
+2 2 2 0 0 0 0 
+1 1 1 0 0 0 0 
+2 2 2 0 0 0 0 
+1 1 1 0 0 0 0 
+2 2 2 0 0 0 0 
+1 1 1 2 1 0 0 
+-----------------
+asd's turn to play
+asd played
+2 2 2 0 0 0 0 
+1 1 1 0 0 0 0 
+2 2 2 0 0 0 0 
+1 1 1 0 0 0 0 
+2 2 2 1 0 0 0 
+1 1 1 2 1 0 0 
+-----------------
+August's turn to play
+August played
+2 2 2 0 0 0 0 
+1 1 1 0 0 0 0 
+2 2 2 0 0 0 0 
+1 1 1 2 0 0 0 
+2 2 2 1 0 0 0 
+1 1 1 2 1 0 0 
+-----------------
+asd's turn to play
+asd played
+2 2 2 0 0 0 0 
+1 1 1 0 0 0 0 
+2 2 2 1 0 0 0 
+1 1 1 2 0 0 0 
+2 2 2 1 0 0 0 
+1 1 1 2 1 0 0 
+-----------------
+August's turn to play
+August played
+2 2 2 0 0 0 0 
+1 1 1 2 0 0 0 
+2 2 2 1 0 0 0 
+1 1 1 2 0 0 0 
+2 2 2 1 0 0 0 
+1 1 1 2 1 0 0 
+-----------------
+asd's turn to play
+asd played
+2 2 2 1 0 0 0 
+1 1 1 2 0 0 0 
+2 2 2 1 0 0 0 
+1 1 1 2 0 0 0 
+2 2 2 1 0 0 0 
+1 1 1 2 1 0 0 
+-----------------
+August's turn to play
+August played
+2 2 2 1 0 0 0 
+1 1 1 2 0 0 0 
+2 2 2 1 0 0 0 
+1 1 1 2 0 0 0 
+2 2 2 1 2 0 0 
+1 1 1 2 1 0 0 
+-----------------
+asd's turn to play
+asd played
+2 2 2 1 0 0 0 
+1 1 1 2 0 0 0 
+2 2 2 1 0 0 0 
+1 1 1 2 1 0 0 
+2 2 2 1 2 0 0 
+1 1 1 2 1 0 0 
+-----------------
+August's turn to play
+August played
+2 2 2 1 0 0 0 
+1 1 1 2 0 0 0 
+2 2 2 1 2 0 0 
+1 1 1 2 1 0 0 
+2 2 2 1 2 0 0 
+1 1 1 2 1 0 0 
+-----------------
+asd's turn to play
+asd played
+2 2 2 1 0 0 0 
+1 1 1 2 1 0 0 
+2 2 2 1 2 0 0 
+1 1 1 2 1 0 0 
+2 2 2 1 2 0 0 
+1 1 1 2 1 0 0 
+-----------------
+August's turn to play
+August played
+2 2 2 1 2 0 0 
+1 1 1 2 1 0 0 
+2 2 2 1 2 0 0 
+1 1 1 2 1 0 0 
+2 2 2 1 2 0 0 
+1 1 1 2 1 0 0 
+-----------------
+asd's turn to play
+asd played
+2 2 2 1 2 0 0 
+1 1 1 2 1 0 0 
+2 2 2 1 2 0 0 
+1 1 1 2 1 0 0 
+2 2 2 1 2 0 0 
+1 1 1 2 1 1 0 
+-----------------
+August's turn to play
+August played
+2 2 2 1 2 0 0 
+1 1 1 2 1 0 0 
+2 2 2 1 2 0 0 
+1 1 1 2 1 0 0 
+2 2 2 1 2 2 0 
+1 1 1 2 1 1 0 
+-----------------
+asd's turn to play
+asd played
+2 2 2 1 2 0 0 
+1 1 1 2 1 0 0 
+2 2 2 1 2 0 0 
+1 1 1 2 1 1 0 
+2 2 2 1 2 2 0 
+1 1 1 2 1 1 0 
+-----------------
+August's turn to play
+asd played
+2 2 2 1 2 0 0 
+1 1 1 2 1 0 0 
+2 2 2 1 2 1 0 
+1 1 1 2 1 1 0 
+2 2 2 1 2 2 0 
+1 1 1 2 1 1 0 
+-----------------
+asd's turn to play
+August entered the online lobby
+A new game was started by August and asd
+August played
+0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 
+1 0 0 0 0 0 0 
+-----------------
+asd's turn to play
+asd played
+0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 
+2 0 0 0 0 0 0 
+1 0 0 0 0 0 0 
+-----------------
+August's turn to play
+August played
+0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 
+1 0 0 0 0 0 0 
+2 0 0 0 0 0 0 
+1 0 0 0 0 0 0 
+-----------------
+asd's turn to play
+asd played
+0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 
+2 0 0 0 0 0 0 
+1 0 0 0 0 0 0 
+2 0 0 0 0 0 0 
+1 0 0 0 0 0 0 
+-----------------
+August's turn to play
+August played
+0 0 0 0 0 0 0 
+1 0 0 0 0 0 0 
+2 0 0 0 0 0 0 
+1 0 0 0 0 0 0 
+2 0 0 0 0 0 0 
+1 0 0 0 0 0 0 
+-----------------
+asd's turn to play
+asd played
+2 0 0 0 0 0 0 
+1 0 0 0 0 0 0 
+2 0 0 0 0 0 0 
+1 0 0 0 0 0 0 
+2 0 0 0 0 0 0 
+1 0 0 0 0 0 0 
+-----------------
+August's turn to play
+August played
+2 0 0 0 0 0 0 
+1 0 0 0 0 0 0 
+2 0 0 0 0 0 0 
+1 0 0 0 0 0 0 
+2 0 0 0 0 0 0 
+1 1 0 0 0 0 0 
+-----------------
+asd's turn to play
+asd played
+2 0 0 0 0 0 0 
+1 0 0 0 0 0 0 
+2 0 0 0 0 0 0 
+1 0 0 0 0 0 0 
+2 2 0 0 0 0 0 
+1 1 0 0 0 0 0 
+-----------------
+August's turn to play
+August played
+2 0 0 0 0 0 0 
+1 0 0 0 0 0 0 
+2 0 0 0 0 0 0 
+1 1 0 0 0 0 0 
+2 2 0 0 0 0 0 
+1 1 0 0 0 0 0 
+-----------------
+asd's turn to play
+asd played
+2 0 0 0 0 0 0 
+1 0 0 0 0 0 0 
+2 2 0 0 0 0 0 
+1 1 0 0 0 0 0 
+2 2 0 0 0 0 0 
+1 1 0 0 0 0 0 
+-----------------
+August's turn to play
+August played
+2 0 0 0 0 0 0 
+1 1 0 0 0 0 0 
+2 2 0 0 0 0 0 
+1 1 0 0 0 0 0 
+2 2 0 0 0 0 0 
+1 1 0 0 0 0 0 
+-----------------
+asd's turn to play
+asd played
+2 2 0 0 0 0 0 
+1 1 0 0 0 0 0 
+2 2 0 0 0 0 0 
+1 1 0 0 0 0 0 
+2 2 0 0 0 0 0 
+1 1 0 0 0 0 0 
+-----------------
+August's turn to play
+August played
+2 2 0 0 0 0 0 
+1 1 0 0 0 0 0 
+2 2 0 0 0 0 0 
+1 1 0 0 0 0 0 
+2 2 0 0 0 0 0 
+1 1 1 0 0 0 0 
+-----------------
+asd's turn to play
+asd played
+2 2 0 0 0 0 0 
+1 1 0 0 0 0 0 
+2 2 0 0 0 0 0 
+1 1 0 0 0 0 0 
+2 2 2 0 0 0 0 
+1 1 1 0 0 0 0 
+-----------------
+August's turn to play
+August played
+2 2 0 0 0 0 0 
+1 1 0 0 0 0 0 
+2 2 0 0 0 0 0 
+1 1 1 0 0 0 0 
+2 2 2 0 0 0 0 
+1 1 1 0 0 0 0 
+-----------------
+asd's turn to play
+asd played
+2 2 0 0 0 0 0 
+1 1 0 0 0 0 0 
+2 2 2 0 0 0 0 
+1 1 1 0 0 0 0 
+2 2 2 0 0 0 0 
+1 1 1 0 0 0 0 
+-----------------
+August's turn to play
+August played
+2 2 0 0 0 0 0 
+1 1 1 0 0 0 0 
+2 2 2 0 0 0 0 
+1 1 1 0 0 0 0 
+2 2 2 0 0 0 0 
+1 1 1 0 0 0 0 
+-----------------
+asd's turn to play
+asd played
+2 2 2 0 0 0 0 
+1 1 1 0 0 0 0 
+2 2 2 0 0 0 0 
+1 1 1 0 0 0 0 
+2 2 2 0 0 0 0 
+1 1 1 0 0 0 0 
+-----------------
+August's turn to play
+August played
+2 2 2 0 0 0 0 
+1 1 1 0 0 0 0 
+2 2 2 0 0 0 0 
+1 1 1 0 0 0 0 
+2 2 2 0 0 0 0 
+1 1 1 1 0 0 0 
+-----------------
+asd's turn to play
+August entered the online lobby
+A new game was started by August and asd
+August played
+0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 
+1 0 0 0 0 0 0 
+-----------------
+asd's turn to play
+asd played
+0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 
+2 0 0 0 0 0 0 
+1 0 0 0 0 0 0 
+-----------------
+August's turn to play
+August played
+0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 
+1 0 0 0 0 0 0 
+2 0 0 0 0 0 0 
+1 0 0 0 0 0 0 
+-----------------
+asd's turn to play
+asd played
+0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 
+2 0 0 0 0 0 0 
+1 0 0 0 0 0 0 
+2 0 0 0 0 0 0 
+1 0 0 0 0 0 0 
+-----------------
+August's turn to play
+August played
+0 0 0 0 0 0 0 
+1 0 0 0 0 0 0 
+2 0 0 0 0 0 0 
+1 0 0 0 0 0 0 
+2 0 0 0 0 0 0 
+1 0 0 0 0 0 0 
+-----------------
+asd's turn to play
+asd played
+2 0 0 0 0 0 0 
+1 0 0 0 0 0 0 
+2 0 0 0 0 0 0 
+1 0 0 0 0 0 0 
+2 0 0 0 0 0 0 
+1 0 0 0 0 0 0 
+-----------------
+August's turn to play
+August played
+2 0 0 0 0 0 0 
+1 0 0 0 0 0 0 
+2 0 0 0 0 0 0 
+1 0 0 0 0 0 0 
+2 0 0 0 0 0 0 
+1 1 0 0 0 0 0 
+-----------------
+asd's turn to play
+asd played
+2 0 0 0 0 0 0 
+1 0 0 0 0 0 0 
+2 0 0 0 0 0 0 
+1 0 0 0 0 0 0 
+2 2 0 0 0 0 0 
+1 1 0 0 0 0 0 
+-----------------
+August's turn to play
+asd played
+2 0 0 0 0 0 0 
+1 0 0 0 0 0 0 
+2 0 0 0 0 0 0 
+1 2 0 0 0 0 0 
+2 2 0 0 0 0 0 
+1 1 0 0 0 0 0 
+-----------------
+asd's turn to play
+asd played
+2 0 0 0 0 0 0 
+1 0 0 0 0 0 0 
+2 2 0 0 0 0 0 
+1 2 0 0 0 0 0 
+2 2 0 0 0 0 0 
+1 1 0 0 0 0 0 
+-----------------
+August's turn to play
+August played
+2 0 0 0 0 0 0 
+1 1 0 0 0 0 0 
+2 2 0 0 0 0 0 
+1 2 0 0 0 0 0 
+2 2 0 0 0 0 0 
+1 1 0 0 0 0 0 
+-----------------
+asd's turn to play
+asd played
+2 2 0 0 0 0 0 
+1 1 0 0 0 0 0 
+2 2 0 0 0 0 0 
+1 2 0 0 0 0 0 
+2 2 0 0 0 0 0 
+1 1 0 0 0 0 0 
+-----------------
+August's turn to play
+August played
+2 2 0 0 0 0 0 
+1 1 0 0 0 0 0 
+2 2 0 0 0 0 0 
+1 2 0 0 0 0 0 
+2 2 0 0 0 0 0 
+1 1 1 0 0 0 0 
+-----------------
+asd's turn to play
+asd played
+2 2 0 0 0 0 0 
+1 1 0 0 0 0 0 
+2 2 0 0 0 0 0 
+1 2 0 0 0 0 0 
+2 2 2 0 0 0 0 
+1 1 1 0 0 0 0 
+-----------------
+August's turn to play
+August played
+2 2 0 0 0 0 0 
+1 1 0 0 0 0 0 
+2 2 0 0 0 0 0 
+1 2 1 0 0 0 0 
+2 2 2 0 0 0 0 
+1 1 1 0 0 0 0 
+-----------------
+asd's turn to play
+asd played
+2 2 0 0 0 0 0 
+1 1 0 0 0 0 0 
+2 2 2 0 0 0 0 
+1 2 1 0 0 0 0 
+2 2 2 0 0 0 0 
+1 1 1 0 0 0 0 
+-----------------
+August's turn to play
+August played
+2 2 0 0 0 0 0 
+1 1 1 0 0 0 0 
+2 2 2 0 0 0 0 
+1 2 1 0 0 0 0 
+2 2 2 0 0 0 0 
+1 1 1 0 0 0 0 
+-----------------
+asd's turn to play
+asd played
+2 2 2 0 0 0 0 
+1 1 1 0 0 0 0 
+2 2 2 0 0 0 0 
+1 2 1 0 0 0 0 
+2 2 2 0 0 0 0 
+1 1 1 0 0 0 0 
+-----------------
+August's turn to play
+August played
+2 2 2 0 0 0 0 
+1 1 1 0 0 0 0 
+2 2 2 0 0 0 0 
+1 2 1 0 0 0 0 
+2 2 2 0 0 0 0 
+1 1 1 0 1 0 0 
+-----------------
+asd's turn to play
+asd played
+2 2 2 0 0 0 0 
+1 1 1 0 0 0 0 
+2 2 2 0 0 0 0 
+1 2 1 0 0 0 0 
+2 2 2 0 0 0 0 
+1 1 1 2 1 0 0 
+-----------------
+August's turn to play
+August entered the online lobby
+A new game was started by August and asd
+August played
+0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 
+1 0 0 0 0 0 0 
+-----------------
+asd's turn to play
+asd played
+0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 
+2 0 0 0 0 0 0 
+1 0 0 0 0 0 0 
+-----------------
+August's turn to play
+August played
+0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 
+1 0 0 0 0 0 0 
+2 0 0 0 0 0 0 
+1 0 0 0 0 0 0 
+-----------------
+asd's turn to play
+asd played
+0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 
+2 0 0 0 0 0 0 
+1 0 0 0 0 0 0 
+2 0 0 0 0 0 0 
+1 0 0 0 0 0 0 
+-----------------
+August's turn to play
+August played
+0 0 0 0 0 0 0 
+1 0 0 0 0 0 0 
+2 0 0 0 0 0 0 
+1 0 0 0 0 0 0 
+2 0 0 0 0 0 0 
+1 0 0 0 0 0 0 
+-----------------
+asd's turn to play
+asd played
+2 0 0 0 0 0 0 
+1 0 0 0 0 0 0 
+2 0 0 0 0 0 0 
+1 0 0 0 0 0 0 
+2 0 0 0 0 0 0 
+1 0 0 0 0 0 0 
+-----------------
+August's turn to play
+August played
+2 0 0 0 0 0 0 
+1 0 0 0 0 0 0 
+2 0 0 0 0 0 0 
+1 0 0 0 0 0 0 
+2 0 0 0 0 0 0 
+1 1 0 0 0 0 0 
+-----------------
+asd's turn to play
+asd played
+2 0 0 0 0 0 0 
+1 0 0 0 0 0 0 
+2 0 0 0 0 0 0 
+1 0 0 0 0 0 0 
+2 2 0 0 0 0 0 
+1 1 0 0 0 0 0 
+-----------------
+August's turn to play
+August played
+2 0 0 0 0 0 0 
+1 0 0 0 0 0 0 
+2 0 0 0 0 0 0 
+1 1 0 0 0 0 0 
+2 2 0 0 0 0 0 
+1 1 0 0 0 0 0 
+-----------------
+asd's turn to play
+asd played
+2 0 0 0 0 0 0 
+1 0 0 0 0 0 0 
+2 2 0 0 0 0 0 
+1 1 0 0 0 0 0 
+2 2 0 0 0 0 0 
+1 1 0 0 0 0 0 
+-----------------
+August's turn to play
+August played
+2 0 0 0 0 0 0 
+1 1 0 0 0 0 0 
+2 2 0 0 0 0 0 
+1 1 0 0 0 0 0 
+2 2 0 0 0 0 0 
+1 1 0 0 0 0 0 
+-----------------
+asd's turn to play
+asd played
+2 2 0 0 0 0 0 
+1 1 0 0 0 0 0 
+2 2 0 0 0 0 0 
+1 1 0 0 0 0 0 
+2 2 0 0 0 0 0 
+1 1 0 0 0 0 0 
+-----------------
+August's turn to play
+August played
+2 2 0 0 0 0 0 
+1 1 0 0 0 0 0 
+2 2 0 0 0 0 0 
+1 1 0 0 0 0 0 
+2 2 0 0 0 0 0 
+1 1 1 0 0 0 0 
+-----------------
+asd's turn to play
+asd played
+2 2 0 0 0 0 0 
+1 1 0 0 0 0 0 
+2 2 0 0 0 0 0 
+1 1 0 0 0 0 0 
+2 2 2 0 0 0 0 
+1 1 1 0 0 0 0 
+-----------------
+August's turn to play
+August played
+2 2 0 0 0 0 0 
+1 1 0 0 0 0 0 
+2 2 0 0 0 0 0 
+1 1 1 0 0 0 0 
+2 2 2 0 0 0 0 
+1 1 1 0 0 0 0 
+-----------------
+asd's turn to play
+asd played
+2 2 0 0 0 0 0 
+1 1 0 0 0 0 0 
+2 2 2 0 0 0 0 
+1 1 1 0 0 0 0 
+2 2 2 0 0 0 0 
+1 1 1 0 0 0 0 
+-----------------
+August's turn to play
+August played
+2 2 0 0 0 0 0 
+1 1 1 0 0 0 0 
+2 2 2 0 0 0 0 
+1 1 1 0 0 0 0 
+2 2 2 0 0 0 0 
+1 1 1 0 0 0 0 
+-----------------
+asd's turn to play
+asd played
+2 2 2 0 0 0 0 
+1 1 1 0 0 0 0 
+2 2 2 0 0 0 0 
+1 1 1 0 0 0 0 
+2 2 2 0 0 0 0 
+1 1 1 0 0 0 0 
+-----------------
+August's turn to play
+August played
+2 2 2 0 0 0 0 
+1 1 1 0 0 0 0 
+2 2 2 0 0 0 0 
+1 1 1 0 0 0 0 
+2 2 2 0 0 0 0 
+1 1 1 0 1 0 0 
+-----------------
+asd's turn to play
+asd played
+2 2 2 0 0 0 0 
+1 1 1 0 0 0 0 
+2 2 2 0 0 0 0 
+1 1 1 0 0 0 0 
+2 2 2 0 0 0 0 
+1 1 1 2 1 0 0 
+-----------------
+August's turn to play
+August played
+2 2 2 0 0 0 0 
+1 1 1 0 0 0 0 
+2 2 2 0 0 0 0 
+1 1 1 0 0 0 0 
+2 2 2 1 0 0 0 
+1 1 1 2 1 0 0 
+-----------------
+asd's turn to play
+asd played
+2 2 2 0 0 0 0 
+1 1 1 0 0 0 0 
+2 2 2 0 0 0 0 
+1 1 1 2 0 0 0 
+2 2 2 1 0 0 0 
+1 1 1 2 1 0 0 
+-----------------
+August's turn to play
+August played
+2 2 2 0 0 0 0 
+1 1 1 0 0 0 0 
+2 2 2 1 0 0 0 
+1 1 1 2 0 0 0 
+2 2 2 1 0 0 0 
+1 1 1 2 1 0 0 
+-----------------
+asd's turn to play
+asd played
+2 2 2 0 0 0 0 
+1 1 1 2 0 0 0 
+2 2 2 1 0 0 0 
+1 1 1 2 0 0 0 
+2 2 2 1 0 0 0 
+1 1 1 2 1 0 0 
+-----------------
+August's turn to play
+August played
+2 2 2 1 0 0 0 
+1 1 1 2 0 0 0 
+2 2 2 1 0 0 0 
+1 1 1 2 0 0 0 
+2 2 2 1 0 0 0 
+1 1 1 2 1 0 0 
+-----------------
+asd's turn to play
+asd played
+2 2 2 1 0 0 0 
+1 1 1 2 0 0 0 
+2 2 2 1 0 0 0 
+1 1 1 2 0 0 0 
+2 2 2 1 2 0 0 
+1 1 1 2 1 0 0 
+-----------------
+August's turn to play
+August played
+2 2 2 1 0 0 0 
+1 1 1 2 0 0 0 
+2 2 2 1 0 0 0 
+1 1 1 2 1 0 0 
+2 2 2 1 2 0 0 
+1 1 1 2 1 0 0 
+-----------------
+asd's turn to play
+asd played
+2 2 2 1 0 0 0 
+1 1 1 2 0 0 0 
+2 2 2 1 2 0 0 
+1 1 1 2 1 0 0 
+2 2 2 1 2 0 0 
+1 1 1 2 1 0 0 
+-----------------
+August's turn to play
+August played
+2 2 2 1 0 0 0 
+1 1 1 2 1 0 0 
+2 2 2 1 2 0 0 
+1 1 1 2 1 0 0 
+2 2 2 1 2 0 0 
+1 1 1 2 1 0 0 
+-----------------
+asd's turn to play
+asd played
+2 2 2 1 2 0 0 
+1 1 1 2 1 0 0 
+2 2 2 1 2 0 0 
+1 1 1 2 1 0 0 
+2 2 2 1 2 0 0 
+1 1 1 2 1 0 0 
+-----------------
+August's turn to play
+August played
+2 2 2 1 2 0 0 
+1 1 1 2 1 0 0 
+2 2 2 1 2 0 0 
+1 1 1 2 1 0 0 
+2 2 2 1 2 0 0 
+1 1 1 2 1 1 0 
+-----------------
+asd's turn to play
+asd played
+2 2 2 1 2 0 0 
+1 1 1 2 1 0 0 
+2 2 2 1 2 0 0 
+1 1 1 2 1 0 0 
+2 2 2 1 2 2 0 
+1 1 1 2 1 1 0 
+-----------------
+August's turn to play
+August played
+2 2 2 1 2 0 0 
+1 1 1 2 1 0 0 
+2 2 2 1 2 0 0 
+1 1 1 2 1 1 0 
+2 2 2 1 2 2 0 
+1 1 1 2 1 1 0 
+-----------------
+asd's turn to play
+asd played
+2 2 2 1 2 0 0 
+1 1 1 2 1 0 0 
+2 2 2 1 2 2 0 
+1 1 1 2 1 1 0 
+2 2 2 1 2 2 0 
+1 1 1 2 1 1 0 
+-----------------
+August's turn to play
+August played
+2 2 2 1 2 0 0 
+1 1 1 2 1 1 0 
+2 2 2 1 2 2 0 
+1 1 1 2 1 1 0 
+2 2 2 1 2 2 0 
+1 1 1 2 1 1 0 
+-----------------
+asd's turn to play
+asd played
+2 2 2 1 2 2 0 
+1 1 1 2 1 1 0 
+2 2 2 1 2 2 0 
+1 1 1 2 1 1 0 
+2 2 2 1 2 2 0 
+1 1 1 2 1 1 0 
+-----------------
+August's turn to play
+August played
+2 2 2 1 2 2 0 
+1 1 1 2 1 1 0 
+2 2 2 1 2 2 0 
+1 1 1 2 1 1 0 
+2 2 2 1 2 2 0 
+1 1 1 2 1 1 1 
+-----------------
+asd's turn to play
+asd played
+2 2 2 1 2 2 0 
+1 1 1 2 1 1 0 
+2 2 2 1 2 2 0 
+1 1 1 2 1 1 0 
+2 2 2 1 2 2 2 
+1 1 1 2 1 1 1 
+-----------------
+August's turn to play
+August played
+2 2 2 1 2 2 0 
+1 1 1 2 1 1 0 
+2 2 2 1 2 2 0 
+1 1 1 2 1 1 1 
+2 2 2 1 2 2 2 
+1 1 1 2 1 1 1 
+-----------------
+asd's turn to play
+asd played
+2 2 2 1 2 2 0 
+1 1 1 2 1 1 0 
+2 2 2 1 2 2 2 
+1 1 1 2 1 1 1 
+2 2 2 1 2 2 2 
+1 1 1 2 1 1 1 
+-----------------
+August's turn to play
+August played
+2 2 2 1 2 2 0 
+1 1 1 2 1 1 1 
+2 2 2 1 2 2 2 
+1 1 1 2 1 1 1 
+2 2 2 1 2 2 2 
+1 1 1 2 1 1 1 
+-----------------
+asd's turn to play
+asd played
+2 2 2 1 2 2 2 
+1 1 1 2 1 1 1 
+2 2 2 1 2 2 2 
+1 1 1 2 1 1 1 
+2 2 2 1 2 2 2 
+1 1 1 2 1 1 1 
+-----------------
+August's turn to play
+Draw, the board is full!
+August entered the online lobby
+August entered the online lobby
+hioi entered the online lobby
+iuhiuhi entered the online lobby
+A new game was started by iuhiuhi and JohansPenis
+iuhiuhi played
+0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 
+0 1 0 0 0 0 0 
+-----------------
+JohansPenis's turn to play
+JohansPenis played
+0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 
+2 1 0 0 0 0 0 
+-----------------
+iuhiuhi's turn to play
+iuhiuhi played
+0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 
+2 1 0 1 0 0 0 
+-----------------
+JohansPenis's turn to play
+JohansPenis played
+0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 
+2 1 2 1 0 0 0 
+-----------------
+iuhiuhi's turn to play
+iuhiuhi played
+0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 
+0 1 0 0 0 0 0 
+2 1 2 1 0 0 0 
+-----------------
+JohansPenis's turn to play
+JohansPenis played
+0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 
+0 1 0 2 0 0 0 
+2 1 2 1 0 0 0 
+-----------------
+iuhiuhi's turn to play
+iuhiuhi played
+0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 
+0 1 0 0 0 0 0 
+0 1 0 2 0 0 0 
+2 1 2 1 0 0 0 
+-----------------
+JohansPenis's turn to play
+JohansPenis played
+0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 
+0 2 0 0 0 0 0 
+0 1 0 0 0 0 0 
+0 1 0 2 0 0 0 
+2 1 2 1 0 0 0 
+-----------------
+iuhiuhi's turn to play
+iuhiuhi played
+0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 
+0 2 0 0 0 0 0 
+0 1 0 0 0 0 0 
+1 1 0 2 0 0 0 
+2 1 2 1 0 0 0 
+-----------------
+JohansPenis's turn to play
+JohansPenis played
+0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 
+0 2 0 0 0 0 0 
+2 1 0 0 0 0 0 
+1 1 0 2 0 0 0 
+2 1 2 1 0 0 0 
+-----------------
+iuhiuhi's turn to play
+iuhiuhi played
+0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 
+1 2 0 0 0 0 0 
+2 1 0 0 0 0 0 
+1 1 0 2 0 0 0 
+2 1 2 1 0 0 0 
+-----------------
+JohansPenis's turn to play
+JohansPenis played
+0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 
+1 2 0 0 0 0 0 
+2 1 0 0 0 0 0 
+1 1 2 2 0 0 0 
+2 1 2 1 0 0 0 
+-----------------
+iuhiuhi's turn to play
+iuhiuhi played
+0 0 0 0 0 0 0 
+1 0 0 0 0 0 0 
+1 2 0 0 0 0 0 
+2 1 0 0 0 0 0 
+1 1 2 2 0 0 0 
+2 1 2 1 0 0 0 
+-----------------
+JohansPenis's turn to play
+JohansPenis played
+0 0 0 0 0 0 0 
+1 0 0 0 0 0 0 
+1 2 0 0 0 0 0 
+2 1 2 0 0 0 0 
+1 1 2 2 0 0 0 
+2 1 2 1 0 0 0 
+-----------------
+iuhiuhi's turn to play
+iuhiuhi played
+0 0 0 0 0 0 0 
+1 0 0 0 0 0 0 
+1 2 1 0 0 0 0 
+2 1 2 0 0 0 0 
+1 1 2 2 0 0 0 
+2 1 2 1 0 0 0 
+-----------------
+JohansPenis's turn to play
+JohansPenis played
+0 0 0 0 0 0 0 
+1 0 2 0 0 0 0 
+1 2 1 0 0 0 0 
+2 1 2 0 0 0 0 
+1 1 2 2 0 0 0 
+2 1 2 1 0 0 0 
+-----------------
+iuhiuhi's turn to play
+iuhiuhi played
+0 0 0 0 0 0 0 
+1 1 2 0 0 0 0 
+1 2 1 0 0 0 0 
+2 1 2 0 0 0 0 
+1 1 2 2 0 0 0 
+2 1 2 1 0 0 0 
+-----------------
+JohansPenis's turn to play
+JohansPenis played
+0 2 0 0 0 0 0 
+1 1 2 0 0 0 0 
+1 2 1 0 0 0 0 
+2 1 2 0 0 0 0 
+1 1 2 2 0 0 0 
+2 1 2 1 0 0 0 
+-----------------
+iuhiuhi's turn to play
+iuhiuhi played
+0 2 1 0 0 0 0 
+1 1 2 0 0 0 0 
+1 2 1 0 0 0 0 
+2 1 2 0 0 0 0 
+1 1 2 2 0 0 0 
+2 1 2 1 0 0 0 
+-----------------
+JohansPenis's turn to play
+JohansPenis played
+2 2 1 0 0 0 0 
+1 1 2 0 0 0 0 
+1 2 1 0 0 0 0 
+2 1 2 0 0 0 0 
+1 1 2 2 0 0 0 
+2 1 2 1 0 0 0 
+-----------------
+iuhiuhi's turn to play
+iuhiuhi played
+2 2 1 0 0 0 0 
+1 1 2 0 0 0 0 
+1 2 1 0 0 0 0 
+2 1 2 1 0 0 0 
+1 1 2 2 0 0 0 
+2 1 2 1 0 0 0 
+-----------------
+JohansPenis's turn to play
+JohansPenis played
+2 2 1 0 0 0 0 
+1 1 2 0 0 0 0 
+1 2 1 2 0 0 0 
+2 1 2 1 0 0 0 
+1 1 2 2 0 0 0 
+2 1 2 1 0 0 0 
+-----------------
+iuhiuhi's turn to play
+iuhiuhi played
+2 2 1 0 0 0 0 
+1 1 2 0 0 0 0 
+1 2 1 2 0 0 0 
+2 1 2 1 0 0 0 
+1 1 2 2 0 0 0 
+2 1 2 1 1 0 0 
+-----------------
+JohansPenis's turn to play
+JohansPenis played
+2 2 1 0 0 0 0 
+1 1 2 0 0 0 0 
+1 2 1 2 0 0 0 
+2 1 2 1 0 0 0 
+1 1 2 2 2 0 0 
+2 1 2 1 1 0 0 
+-----------------
+iuhiuhi's turn to play
+iuhiuhi played
+2 2 1 0 0 0 0 
+1 1 2 1 0 0 0 
+1 2 1 2 0 0 0 
+2 1 2 1 0 0 0 
+1 1 2 2 2 0 0 
+2 1 2 1 1 0 0 
+-----------------
+JohansPenis's turn to play
+iuhiuhi entered the online lobby
+A new game was started by iuhiuhi and asdasd
+asdasd entered the online lobby
+A new game was started by asdasd and asdasd
+Asuguasd entered the online lobby
+A new game was started by Asuguasd and Sjjj
+Sjjj played
+0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 
+0 0 2 0 0 0 0 
+-----------------
+Asuguasd's turn to play
+Asuguasd played
+0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 
+0 0 2 1 0 0 0 
+-----------------
+Sjjj's turn to play
+Sjjj played
+0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 
+0 0 2 0 0 0 0 
+0 0 2 1 0 0 0 
+-----------------
+Asuguasd's turn to play
+Asuguasd played
+0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 
+0 0 2 1 0 0 0 
+0 0 2 1 0 0 0 
+-----------------
+Sjjj's turn to play
+Sjjj played
+0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 
+0 0 2 0 0 0 0 
+0 0 2 1 0 0 0 
+0 0 2 1 0 0 0 
+-----------------
+Asuguasd's turn to play
+Asuguasd played
+0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 
+0 0 2 1 0 0 0 
+0 0 2 1 0 0 0 
+0 0 2 1 0 0 0 
+-----------------
+Sjjj's turn to play
+Sjjj played
+0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 
+0 0 2 0 0 0 0 
+0 0 2 1 0 0 0 
+0 0 2 1 0 0 0 
+0 0 2 1 0 0 0 
+-----------------
+Asuguasd's turn to play
+sdfsdf entered the online lobby
+A new game was started by sdfsdf and sdfsdf
+sdfsdf entered the online lobby
+A new game was started by sdfsdf and asdasd
+asdasd played
+0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 
+0 0 2 0 0 0 0 
+-----------------
+sdfsdf's turn to play
+sdfsdf played
+0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 
+0 1 2 0 0 0 0 
+-----------------
+asdasd's turn to play
+asdasd played
+0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 
+0 1 2 0 2 0 0 
+-----------------
+sdfsdf's turn to play
+sdfsdf played
+0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 
+0 0 1 0 0 0 0 
+0 1 2 0 2 0 0 
+-----------------
+asdasd's turn to play
+August entered the online lobby
+ASiudhaisd entered the online lobby
+August entered the online lobby
